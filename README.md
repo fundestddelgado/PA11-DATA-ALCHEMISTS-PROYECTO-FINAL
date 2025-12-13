@@ -13,7 +13,7 @@ Este documento describe la secuencia completa de pasos para preparar los datos, 
 
 1.  **Navega al directorio raíz de tu proyecto:**
     ```bash
-    cd C:\Users\WarMachine\PycharmProjects\Proyecto
+    \Entrenamiento
     ```
 2.  **Instala las dependencias principales del proyecto:**
     ```bash
@@ -131,6 +131,6 @@ El backend de la aplicación web espera encontrar el modelo entrenado en una ubi
 
 1.  **Abre el archivo HTML de la interfaz de usuario en tu navegador web:**
     Puedes encontrarlo en:
-    `C:\Users\WarMachine\PycharmProjects\Proyecto\Web-Clasificador\Frontend\index.html`
+    `\Web-Clasificador\Frontend\index.html`
 
 Ahora deberías poder interactuar con la interfaz web, subir imágenes y ver las predicciones del modelo.
