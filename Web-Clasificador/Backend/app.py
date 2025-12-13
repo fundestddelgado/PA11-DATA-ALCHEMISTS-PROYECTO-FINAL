@@ -27,17 +27,17 @@ MODEL_PATH = "models/classifier.keras"
 # ======================================================
 # CARGAR MODELO
 # ======================================================
-print(f"🔍 Cargando modelo desde: {MODEL_PATH}")
+print(f" Cargando modelo desde: {MODEL_PATH}")
 
 try:
     # En Keras 3, .keras es el formato recomendado
     model = tf.keras.models.load_model(MODEL_PATH, compile=False)
-    print("✅ Modelo cargado correctamente")
+    print(" Modelo cargado correctamente")
     print(f"   Input shape: {model.input_shape}")
     print(f"   Output shape: {model.output_shape}")
     load_error = None
 except Exception as e:
-    print(f"❌ Error al cargar el modelo: {e}")
+    print(f" Error al cargar el modelo: {e}")
     model = None
     load_error = str(e)
 
@@ -119,4 +119,5 @@ async def predict(file: UploadFile = File(...)):
 
 if __name__ == "__main__":
     import uvicorn
+
     uvicorn.run(app, host="0.0.0.0", port=8000)
