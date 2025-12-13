@@ -69,7 +69,7 @@ El backend estará disponible en `http://localhost:8000`.
 Simplemente abre el archivo `index.html` en tu navegador web preferido:
 
 ```
-file:///C:/Users/WarMachine/PycharmProjects/Proyecto/Web-Clasificador/Frontend/index.html
+file:///C:/Users/WarMachine/PycharmProjects/Proyecto/Web-Clasificador/Frontend/index.html en caso del nuestras pruebas
 ```
 
 ## Uso de la Aplicación Web
