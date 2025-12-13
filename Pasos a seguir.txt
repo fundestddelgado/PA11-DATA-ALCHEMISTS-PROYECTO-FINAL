@@ -1,0 +1,133 @@
+# Flujo de Trabajo Completo del Proyecto
+
+Este documento describe la secuencia completa de pasos para preparar los datos, entrenar el modelo de clasificación de imágenes y luego configurar y ejecutar la aplicación web para realizar predicciones.
+
+---
+
+## Sección 1: Preparación de Datos y Entrenamiento del Modelo
+
+### A. Configuración Inicial del Entorno (Proyecto Principal)
+
+1.  **Navega al directorio raíz de tu proyecto:**
+    ```bash
+    cd C:\Users\WarMachine\PycharmProjects\Proyecto
+    ```
+2.  **Instala las dependencias principales del proyecto:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+    (Si no existe `requirements.txt`, asegúrate de tener instaladas librerías como `tensorflow`, `numpy`, `pandas`, `scikit-learn`, `Pillow`, `requests`, `tqdm`).
+
+    ***Nota Importante:*** *Si ya has ejecutado pasos de preparación de datos anteriormente y tienes la carpeta `data_splits/` con datos ya divididos en `train`, `val` y `test`, puedes considerar que los pasos B al E ya están completados.*
+
+### B. Creación del Dataset Inicial
+
+Propósito: Procesar los archivos de metadatos (ej. `amazon_meta/*.jsonl.gz`) para generar una lista inicial de productos e imágenes.
+
+**Comando:**
+```bash
+python crear_DataSet.py
+```
+**Resultado esperado:** Un archivo CSV (probablemente `amazon_image_urls.csv` o similar) con la información de los productos.
+
+### C. Descarga de Imágenes
+
+Propósito: Usando la lista generada en el paso anterior, este script descarga las imágenes de internet a la carpeta `data_raw/`.
+
+**Comando:**
+```bash
+python descargar.py
+```
+**Resultado esperado:** Las imágenes se descargan en la carpeta `data_raw/`.
+
+### D. Filtrado y Limpieza de Imágenes
+
+Propósito: Limpiar, filtrar y estandarizar las imágenes descargadas y sus nombres de archivo.
+
+**Comandos (ejecutar en orden):**
+1.  ```bash
+    python filtrado_Imagenes.py
+    ```
+2.  ```bash
+    python eliminar_fashion.py
+    ```
+3.  ```bash
+    python limpiar_nombre_jpg.py
+    ```
+**Resultado esperado:** La carpeta `data_raw/` contendrá únicamente las imágenes limpias y listas para el siguiente paso.
+
+### E. Balanceo y División del Dataset
+
+Propósito: Balancear las clases para que tengan un número similar de muestras y dividir el dataset en los conjuntos de entrenamiento, validación y prueba.
+
+**Comando:**
+```bash
+python balancear_dataset.py
+```
+**Resultado esperado:** Se crea la carpeta `data_splits/` con las subcarpetas `train/`, `val/` y `test/`, cada una conteniendo las imágenes organizadas por clase.
+
+### F. Entrenamiento del Modelo
+
+Propósito: Usar los datos procesados en `data_splits/` para entrenar, evaluar y guardar el modelo de clasificación.
+
+**Comando:**
+```bash
+python Entrenamiento.py
+```
+**Resultado esperado:** El script entrenará el modelo, mostrará los resultados de la evaluación y guardará los archivos del modelo final en la carpeta `models/` (específicamente `models/classifier.keras`).
+
+---
+
+## Sección 2: Configuración y Ejecución de la Aplicación Web
+
+Una vez que tengas el modelo entrenado (`models/classifier.keras`), puedes configurar y ejecutar la aplicación web.
+
+### A. Preparación del Modelo para la Web
+
+El backend de la aplicación web espera encontrar el modelo entrenado en una ubicación específica.
+
+1.  **Crea la carpeta `Models` si no existe:**
+    ```bash
+    mkdir Web-Clasificador\Backend\Models
+    ```
+2.  **Copia el modelo entrenado:**
+    Copia el archivo `classifier.keras` (generado en el paso 1.F) a la carpeta del backend de la aplicación web.
+    ```bash
+    copy models\classifier.keras Web-Clasificador\Backend\Models\classifier.keras
+    ```
+
+### B. Instalación de Dependencias (Aplicación Web)
+
+1.  **Navega al directorio de la aplicación web:**
+    ```bash
+    cd Web-Clasificador
+    ```
+2.  **Instala las dependencias específicas de la aplicación web:**
+    ```bash
+    pip install -r Requirements.txt
+    ```
+    (Este `Requirements.txt` es diferente al del proyecto principal y contiene dependencias como `fastapi`, `uvicorn`, etc.)
+
+### C. Iniciar el Backend
+
+1.  **Navega al directorio del backend:**
+    ```bash
+    cd Backend
+    ```
+2.  **Inicia el servidor FastAPI:**
+    ```bash
+    python app.py
+    ```
+    O, si prefieres un control más explícito:
+    ```bash
+    uvicorn app:app --host 0.0.0.0 --port 8000
+    ```
+    El backend debería iniciarse y estar accesible en `http://localhost:8000`.
+
+### D. Acceder al Frontend
+
+1.  **Abre el archivo HTML de la interfaz de usuario en tu navegador web:**
+    Puedes encontrarlo en:
+    `C:\Users\WarMachine\PycharmProjects\Proyecto\Web-Clasificador\Frontend\index.html`
+
+Ahora deberías poder interactuar con la interfaz web, subir imágenes y ver las predicciones del modelo.
