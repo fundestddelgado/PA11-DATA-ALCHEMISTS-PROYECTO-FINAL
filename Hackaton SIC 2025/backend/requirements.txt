@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+faiss-cpu==1.13.1
+sentence-transformers==3.0.1
+# Para Python 3.13+ necesitas ruedas recientes de NumPy (1.26.x no publica wheel).
+numpy>=2.1.1,<2.2

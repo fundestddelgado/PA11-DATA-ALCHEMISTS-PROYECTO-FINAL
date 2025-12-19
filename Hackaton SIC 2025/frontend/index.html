@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LegalBot Panamá — Panel RAG</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bg-veil"></div>
+  <div class="page">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">⚖️</div>
+        <div>
+          <p class="eyebrow">LegalBot Panamá</p>
+          <strong>Chat legal RAG</strong>
+        </div>
+      </div>
+      <div class="top-actions">
+        <div class="pill">Dataset: 12 códigos</div>
+        <div class="pill success">Modo seguro</div>
+        <button class="ghost" data-open-drawer="info">Panel info</button>
+        <button class="ghost" data-open-drawer="menu">Menú</button>
+      </div>
+    </header>
+
+    <div class="content">
+      <main class="layout">
+        <section class="chat-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Sesión</p>
+              <h2>Conversación legal</h2>
+            </div>
+            <div class="head-actions">
+              <span class="pill success">RAG listo</span>
+              <button id="resetChat" class="ghost small">Reiniciar</button>
+            </div>
+          </div>
+
+          <div class="micro-actions">
+            <button class="ghost tiny" data-prompt="¿Cuáles son las licencias por maternidad en Panamá?">Licencias</button>
+            <button class="ghost tiny" data-prompt="Explica el Artículo 210 del Código de Trabajo.">Art. 210</button>
+            <button class="ghost tiny" data-prompt="Requisitos para adopción según el Código de la Familia.">Adopción</button>
+          </div>
+
+          <div id="chatLog" class="chat-log" aria-live="polite">
+            <div class="message assistant">
+              <div class="bubble">
+                <p>Hola, soy LegalBot Panamá. Pregunta sobre un artículo específico o describe tu caso y
+                  te devolveré una respuesta breve con la cita legal correspondiente.</p>
+                <div class="sources">
+                  <span class="pill neutral">Fuente: Dataset RAG SIC 2025</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <form id="chatForm" class="chat-input">
+            <div class="field">
+              <label for="userQuestion">Consulta legal</label>
+              <textarea id="userQuestion" name="question" rows="3" placeholder="Ej. ¿Qué dice el Artículo 213 del Código de la Familia sobre adopciones?"></textarea>
+            </div>
+            <div class="input-actions">
+              <div class="toggles">
+                <label class="toggle">
+                  <input type="checkbox" id="strictMode" checked>
+                  <span>Modo estricto</span>
+                </label>
+                <label class="toggle">
+                  <input type="checkbox" id="citations" checked>
+                  <span>Citas</span>
+                </label>
+              </div>
+              <button type="submit" class="primary">Enviar</button>
+            </div>
+          </form>
+        </section>
+
+        <aside class="info-panels">
+          <div class="panel">
+            <div class="panel-head">
+              <p class="eyebrow">Cobertura</p>
+              <span class="badge">RAG</span>
+            </div>
+            <p class="muted small">12 códigos + legislación complementaria con FAISS.</p>
+            <div class="chips">
+              <span class="chip">Trabajo</span><span class="chip">Penal</span><span class="chip">Civil</span><span class="chip">Familia</span>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel-head">
+              <p class="eyebrow">Checklist</p>
+              <span class="badge warning">Guardrails</span>
+            </div>
+            <ul class="list">
+              <li><span class="dot dot-green"></span> Sin inventar artículos</li>
+              <li><span class="dot dot-green"></span> Citas obligatorias</li>
+              <li><span class="dot dot-amber"></span> Fallback “No encontrado”</li>
+              <li><span class="dot dot-amber"></span> Tono informativo</li>
+            </ul>
+          </div>
+          <div class="panel">
+            <div class="panel-head">
+              <p class="eyebrow">Estado</p>
+              <span class="badge neutral">SLO</span>
+            </div>
+            <div class="progress">
+              <div class="progress-label">
+                <span>Índice FAISS</span><span>100%</span>
+              </div>
+              <div class="progress-bar"><span style="width: 100%"></span></div>
+            </div>
+            <div class="progress">
+              <div class="progress-label">
+                <span>Citas presentes</span><span>93%</span>
+              </div>
+              <div class="progress-bar"><span style="width: 93%"></span></div>
+            </div>
+          </div>
+        </aside>
+      </main>
+    </div>
+  </div>
+
+  <!-- Drawers (mobile/compact) -->
+  <div class="drawer-overlay" data-close-drawer></div>
+  <div class="drawer" id="drawer-info">
+    <div class="drawer-header">
+      <span>Información</span>
+      <button class="ghost small" data-close-drawer>&times;</button>
+    </div>
+    <div class="drawer-body">
+      <div class="panel mini">
+        <p class="eyebrow">Cobertura</p>
+        <p class="muted small">12 códigos + legislación complementaria con FAISS.</p>
+        <div class="chips">
+          <span class="chip">Trabajo</span><span class="chip">Penal</span><span class="chip">Civil</span><span class="chip">Familia</span>
+        </div>
+      </div>
+      <div class="panel mini">
+        <p class="eyebrow">Checklist</p>
+        <ul class="list">
+          <li><span class="dot dot-green"></span> Sin inventar artículos</li>
+          <li><span class="dot dot-green"></span> Citas obligatorias</li>
+          <li><span class="dot dot-amber"></span> Fallback “No encontrado”</li>
+          <li><span class="dot dot-amber"></span> Tono informativo</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="drawer" id="drawer-menu">
+    <div class="drawer-header">
+      <span>Acciones rápidas</span>
+      <button class="ghost small" data-close-drawer>&times;</button>
+    </div>
+    <div class="drawer-body">
+      <div class="quick-questions column">
+        <button class="ghost block" data-prompt="Explica obligaciones del empleador según el Código de Trabajo.">Obligaciones del empleador</button>
+        <button class="ghost block" data-prompt="¿Qué sanción contempla el Código Penal por hurto simple?">Hurto simple</button>
+        <button class="ghost block" data-prompt="Requisitos para adopción según el Código de la Familia.">Adopción</button>
+      </div>
+      <p class="muted small">La UI es modular: sustituye el mock de respuestas con tu endpoint FastAPI o Streamlit.</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
