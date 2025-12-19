@@ -1,0 +1,2372 @@
+[
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 1,
+    "texto": "Artículo 1. Nadie podrá ser procesado ni penado po r un hecho no descrito expresamente como delito\npor la ley vigente al tiempo de su comisión, ni sometido a medidas de seguridad que la ley no haya\nestablecido previamente. \nLas infracciones de la ley penal se dividen en delitos  y faltas; las últimas las define y castiga el Código\nAdministrativo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 2,
+    "texto": "Artículo 2. Nadie podrá ser sancionado sino por tribunal competente, en virtud de proceso legal\nprevio, seguido de acuerdo con las formalidades legales vigentes. \nNadie será sometido a jurisdiccion es extraordinarias o creadas ad- hoc con posterioridad a un hecho\npunible. \nTampoco se podrá juzgar a nadie más de una vez por la misma causa penal."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 3,
+    "texto": "Artículo 3. Los procesos que se sigan en contravención a lo dispuesto en los Artículos precedentes son\nnulos, y los que hayan actuado en ellos como jueces o funcionarios de instrucción serán responsables en\ntodo caso, civil y criminalmente, por los daños o los perjuicios que resultaren del proceso ilegal."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 4,
+    "texto": "Artículo 4. Al aplicar la ley a un hecho, éste no podrá ser considerado más de una vez para la\nimposición de la sanción, a menos que constituya dos o más hechos punibles. \nCuando varias leyes o disposiciones de este Código sancionen el mismo hecho, la disposición especial\nprevalecerá sobre la general"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 5,
+    "texto": "Artículo 5. Ningún hecho podrá tenerse por  punible ni imponerse sanción alguna, mediante\naplicación analógica de la ley penal."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 6,
+    "texto": "Artículo 6. El desconocimiento de la ley penal no exime de responsabilidad al que la infringe.\nCAPITULO II\nAPLICACION EN EL ESPACIO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 7,
+    "texto": "Artículo 7. La Ley penal se aplicará a los hechos punibles cometidos en el territorio nacional y demás\nlugares sujetos a la jurisdicción del Estado, salvo las excepciones establecid as en las convenciones y\nreglas internacionales aceptadas por la República de Panamá. \nPara los efectos de la ley penal constituyen el territo rio de la República, el área continental e insular, el\nmar territorial, la plataforma continental, el subs uelo y el espacio aéreo que los cubre. Se considera\ntambién territorio nacional las naves y aeronaves pa nameñas y todo aquello que según las normas del\nDerecho Internacional responda a ese concepto.\n2"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 8,
+    "texto": "Artículo 8. Se aplicará la ley penal panameña a lo s hechos punibles cometidos en el extranjero contra\nla personalidad jurídica del Estado, la salud pública, la economía nacional y la administración pública, y\ncuando se falsifiquen documentos de crédito público, el papel sellado, los timbres oficiales y la moneda\npanameña o cualquier otra moneda de curso legal en  la República, siempre que, en este último caso, se\ncompruebe que se destinaban a ser introducidas al territorio panameño."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 9,
+    "texto": "Artículo 9. Se aplicará la ley penal panameña por  los hechos punibles cometidos en el extranjero\ncuando: \n1. Producen o debieran producir sus resultados, en todo o en parte, en el territorio panameño. \n2. Se perpetren contra algún panameño o sus derechos. \n3. Se cometan por servidores públicos o agentes con a buso de sus funciones o violación de los deberes de\nsu cargo o mandato. \n4. Sean cometidos en el extranjero por persona l al servicio del Estado panameño y no hubieran sido\njuzgados en el lugar de comisión en virtud de inmunidad diplomática o funcional, y \n5. Se trate de delitos cometidos por panameños en el extranjero y solicitada su extradición por otro Estado\npara juzgarlo, ella hubiere sido denegada en razón de la nacionalidad. \nArtículo 10 Independientemente de las disposiciones vigentes en el lugar de la comisión del hecho\npunible y de la nacionalidad del imputado, se aplicar á la ley penal panameña a quienes cometan hechos\npunibles previstos en los tratados internacionales ratificados por la República de Panamá. \nPara que los delitos a que se refiere el párrafo anteri or sean susceptibles de en juiciamiento y sancionados\nen Panamá se requiere que el imputado se encuentre en el territorio de la República."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 11,
+    "texto": "Artículo 11. La sentencia penal extranjera absolu toria tendrá valor de cosa juzgada para todos los\nefectos legales. La condenatoria lo tendrá para determinar la calidad de  reincidencia o habitualidad del\nreo, siempre que se trate de delitos previstos en la ley panameña."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 12,
+    "texto": "Artículo 12. No obstante lo expresado en el Artículo anterior no tendrán el valor de cosa juzgada ante\nla ley nacional las sentencias penales que se pronuncien sobre los delitos expresados en el"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 9,
+    "texto": "Artículo 9. Sin\nembargo, la pena o parte de ella que el reo hubiere cumplido en virtud de tales sentencias, se descontará\nde la que se impusiere \nconforme a la ley panameña si ambas son de similar naturaleza, y si no lo son, se atenuará parcialmente la\npena.\nCAPITULO III\nAPLICACION EN EL TIEMPO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 13,
+    "texto": "Artículo 13. Si con posterioridad a la comisión del hecho punible se promulgare una nueva ley, y no\nse hubiere decidido definitivamente el caso, se aplicará al procesado la ley más favorable."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 14,
+    "texto": "Artículo 14. La ley penal que prive el carácter  criminoso a un hecho definido como tal, la que\nsuprima o aminore una pena y la que en cualquie r forma modifique favorablemente para el reo las\ndisposiciones penales, se aplicará desde que entre en vigencia, aunque haya sentencia ejecutoriada. \nPara los efectos de este Artículo se procederá de oficio o a petición de parte. \nCAPITULO IV \nAPLICACION A LAS PERSONAS\n3"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 15,
+    "texto": "Artículo 15. La ley penal panameña se aplicará sin distinción de personas, con excepción de: \n1. Los Jefes de Estado extranjero que se encuentren en el territorio nacional; \n2 Los Agentes Diplomáticos de otros Estados y demás personas que gocen de inmunidad según las\nconvenciones internacionales vigentes en la República de Panamá; \n3. Los casos previstos en la Constitución Política."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 16,
+    "texto": "Artículo 16. La comisión de un hecho punible por un servidor público en cuyo favor exista\nprerrogativa funcional, no impide que la autoridad co mpetente, previo cumplimiento de las formalidades\nlegales, le aplique las sanciones previstas en la ley penal. \nTITULO II \nEL HECHO PUNIBLE \nCAPITULO I \nFORMA, TIEMPO Y LUGAR DEL HECHO PUNIBLE"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 17,
+    "texto": "Artículo 17. El hecho punible puede ser realizado por acción o por omisión. \nCuando se incrimine el hecho en razón del resultado pr oducido, también lo realiza quien tenía el deber\njurídico de evitarlo y no lo impidió pudiendo hacerlo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 18,
+    "texto": "Artículo 18. El hecho punible se considera realiz ado en el momento y lugar de la acción u omisión,\naún cuando sea otro el momento del resultado. \nCAPITULO II \nCAUSAS DE JUSTIFICACION"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 19,
+    "texto": "Artículo 19. No comete delito quien obre en cumplimiento de un deber legal o en el ejercicio legítimo\nde un derecho."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 20,
+    "texto": "Artículo 20. No delinque el que, ante una situación de peligro para un bien jurídico propio o ajeno,\nlesione otro, para evitar un mal mayor, siempre que concurran los requisitos siguientes: \n1. Que el peligro sea actual, grave o inminente; \n2. Que no sea evitable de otra manera; \n3. Que el mal producido fuere menor que el evitado; \n4. Que el peligro no haya sido voluntariamente provocado por el agente; \n5. Que éste no tuviere el deber jurídico de afrontar el riesgo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 21,
+    "texto": "Artículo 21. No comete delito quien obre en defe nsa de la persona o der echos propios o ajenos,\nsiempre que concurran los siguientes requisitos: \n1. Agresión injusta, actual o inminente del que resulte afectado por el hecho. \n2. Medio racional para impedir o repeler la agresión; \n3. Imposibilidad de evitarla o eludirla de otra manera; y \n4. Falta de provocación suficiente por parte de quien se defiende."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 22,
+    "texto": "Artículo 22. Si en los casos de que tratan los artíc ulos anteriores, el responsable del hecho se excedió\nde los límites señalados por la ley, por la autori dad o por la necesidad, será sancionado con una pena que\nno sea menor de la sexta parte ni exceda de la mitad de la señalada por la ley.\n4\nCAPITULO III \nIMPUTABILIDAD E INIMPUTABILIDAD"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 23,
+    "texto": "Artículo 23. Para que un procesado sea declarado culp able por un hecho previsto como punible en la\nley es necesario que sea imputable. \nSalvo prueba en contrario, se presume la imputabilidad del procesado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 24,
+    "texto": "Artículo 24. No es imputable quien en el mo mento de ejecutar el hecho punible, no tenga la\ncapacidad de comprender su ilicitud o de determin arse de acuerdo con esa comprensión, por causa de\ntrastorno mental."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 25,
+    "texto": "Artículo 25. Actúa con imputabilidad disminuida quien en el momento de la acción u omisión, posea\nincompletamente la capacidad de comprender el carác ter ilícito del hecho en razón de grave perturbación\nde la conciencia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 26,
+    "texto": "Artículo 26. Si en la investigación el funcionari o de instrucción observa en el procesado indicios de\nque se halla en cualquiera de las circunstancias de lo s Artículos 24 y 25, ordenará su examen por peritos\noficiales."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 27,
+    "texto": "Artículo 27. Si el proceso se encuentra en la etapa del plenario, el Tribunal correspondiente puede\nordenar el examen de que trata el Artículo anterior , si lo estima conveniente, de oficio o a petición de\nparte."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 28,
+    "texto": "Artículo 28. No podrá ser declarado inimputable quien con el fin de cometer un hecho punible y de\nprocurarse una excluyente, se coloque en un estado de  inimputabilidad total o parcial para cometerlo en\ncuyo caso la sanción deberá agravarse de acuerdo con las reglas de este Código."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 29,
+    "texto": "Artículo 29. Si el estado de perturbación mental  del imputado en el momento del hecho punible\nproviene de embriaguez, se seguirán las reglas siguientes: \n1. Quien en el momento de perpetrar el hecho punible se encuentre en estado de embriaguez por caso\nfortuito, será declarado inimputable si aquélla es total; \n2. Si el agente se embriagara con el designio de  cometer un hecho punible o procurarse una excusa, la\nsanción deberá agravarse, según las reglas de este Código; y \n3. Los intoxicados por drogas o estupefacientes de cualquier índole que cometan un hecho punible, serán\ndeclarados imputables o inimputables conforme las reglas dadas para el embriagado. \nCAPITULO IV \nLA CULPABILIDAD"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 30,
+    "texto": "Artículo 30. Nadie podrá ser declarado culpable por un hecho legalmente descrito si no lo ha\nrealizado con dolo, salvo los casos de culpa expresamente previstos por la ley. \nSi la ley señalare pena más grave por una consecuen cia especial del hecho, se aplicará sólo al autor o\npartícipe que hubiere actuado por lo menos culposamente respecto de ella."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 31,
+    "texto": "Artículo 31. Obra con dolo quien quiere la reali zación del hecho legalmente descrito, así como quien\nlo acepta, previéndolo por lo menos como posible.\n5"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 32,
+    "texto": "Artículo 32. Obra con culpa quien realiza el hecho legalmente descrito por inobservancia del deber de\ncuidado que le incumbe de acuerdo con las circunsta ncias y sus condiciones personales y, en el caso de\nrepresentárselo como posible, actúa confiado en poder evitarlo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 33,
+    "texto": "Artículo 33. No será sancionado quien, al realizar el  hecho, comete error invencible sobre alguna de\nlas exigencias necesarias para que el delito exista según su descripción legal. \nNo obstante, si el error proviene de culpa, el hec ho se sancionará sólo cuando la ley señale pena para su\nrealización a tal título."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 34,
+    "texto": "Artículo 34. Si por error o por accidente, el culpable de un delito daña con él a una persona distinta de\naquella a quien quiso agredir, no se le imputarán pa ra graduar la pena las ci rcunstancias agravantes que\nemanan de la condición de la persona  ofendida o de los vínculos que unan a ésta con el culpable; pero sí\nse tendrán en cuenta las circunstancias que hubieren at enuado la responsabilidad del culpable si el hecho\nse hubiera cometido en la persona a quien el delincuente tuvo el propósito de agredir."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 35,
+    "texto": "Artículo 35. No es culpable quien obra en virtud de obediencia debida, siempre que la orden emane\nde una autoridad competente para expedirla y esté revestida de las formalidades legales, que el agente esté\nobligado a cumplirla y que no tenga el carácter de  una evidente infracción punible. Se exceptúan los\nmiembros de la Fuerza Pública cuando estén en  servicio, en cuyo caso la responsabilidad recae\núnicamente sobre el superior jerárquico que imparta la orden."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 36,
+    "texto": "Artículo 36. No es culpable quien realiza un hec ho no justificado para impedir un mal actual e\ninminente y no evitable de otro modo, a menos que aquel razonablemente se estime excesivo en relación\ncon éste."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 37,
+    "texto": "Artículo 37. No es culpable quien obra bajo coacción o amenaza de un mal actual y grave, sea o no\nprovocado por la acción de un tercero, cuando razonablemente no pueda exigírsele una conducta distinta. \nCAPITULO V \nAUTORIA Y PARTICIPACION"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 38,
+    "texto": "Artículo 38. Son autores los que realizan la conducta descrita como punible."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 39,
+    "texto": "Artículo 39. Son cómplices primarios los que tome n parte en la realización del hecho punible o\npresten al autor o autores un auxilio sin el cual el hecho no habría podido cometerse."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 40,
+    "texto": "Artículo 40. Son cómplices secundarios los que aux ilien de cualquier otro modo al autor o autores en\nla realización del hecho punible aún mediante promesa de ayuda posterior a su consumación."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 41,
+    "texto": "Artículo 41. Son instigadores, quienes intencionalm ente determinen a otros a realizar el hecho\npunible."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 42,
+    "texto": "Artículo 42. Los partícipes serán responsables desd e el momento en que se inició la realización del\nhecho punible, según lo establecido en el"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 18,
+    "texto": "Artículo 18. Si el hecho fuere más grave del que quisieron\nrealizar, responderán por aquél quienes lo hubier en aceptado como una consecuencia probable de la\nacción emprendida."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 43,
+    "texto": "Artículo 43. Las circunstancias agravantes o at enuantes inherentes a la persona del autor o que\nemanen de sus relaciones particulares con el ofendi do o de otra causa personal,  atenuarán o agravarán la\nresponsabilidad sólo de los partícipes en quienes concurran.\n6\nLas que consistieren en la ejecuci ón material del hecho o en los me dios empleados para realizarlo,\nagravarán la responsabilidad únicamente de los par tícipes que tuvieren conocimiento de ellas en el\nmomento de la comisión o en el de su cooperación para perpetrarlo. \nCAPITULO VI \nTENTATIVA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 44,
+    "texto": "Artículo 44. Hay tentativa cuando se inicia la  ejecución de un hecho punible por actos idóneos\nencaminados a su consumación y que no se produce por causas independientes del agente."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 45,
+    "texto": "Artículo 45. El agente que voluntariamente desiste de la ejecución del delito o impide que el\nresultado se produzca, sólo incurrirá en  pena cuando los actos ya reali zados constituyen de por sí otro u\notros hechos punibles.\nTITULO III\nLAS PENAS\nCAPITULO I\nCLASES DE PENAS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 46,
+    "texto": "Artículo 46. Las penas que este Código establece son: \n1. Principales: Prisión y día-multa \n2. Accesorias: \na) Inhabilitación para el ejercicio de funciones públicas. \nb) Inhabilitación para el ejercicio de una profesión, oficio, arte o industria. \nc) Interdicción legal limitada a los derechos que se determinen en cada caso, y \nd) Comiso."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 47,
+    "texto": "Artículo 47. La pena de prisión consiste en la privación temporal de la libertad y se cumplirá en los\nlugares que la ley determine, de manera que ej erzan sobre el sancionado una acción de readaptación\nsocial. \nLa pena de prisión que se imponga por un solo hecho punible puede durar desde 30 días hasta 20 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 48,
+    "texto": "Artículo 48. El día-multa consiste en la obligaci ón de pagar al Estado una suma de dinero, que se\ndeterminará de acuerdo con la situación económica del procesado, en atención a su caudal, rentas, medios\nde subsistencia, nivel de gastos u otros elementos de juicio que el Tribunal considere apropiados. \nSi el reo viviere del producto de su trabajo, el día-multa no podrá exceder del 50% de su salario diario. \nEl mínimo es de 25 días-multa y el máximo de 365 días multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 49,
+    "texto": "Artículo 49. El Tribunal, atendida la situación económica del sancionado, podrá señalar un plazo para\nel pago de la multa, siempre que la garantice con cauciones reales o personales. \nEl Tribunal tendrá facultad para prescindir prudencialmente de dichas garantías. \nEstos beneficios podrán ser revocados por incumplim iento en el pago o cuando mejore sensiblemente la\nsituación económica del sancionado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 50,
+    "texto": "Artículo 50. Podrá autorizarse al sancionado para que amortice la multa, mediante trabajo libre\nremunerado. Las autoridades competentes determinarán los trabajos computables para estos efectos y del\nsalario o sueldo que perciba el sancionado se le descontará una suma de manera que el resto sea suficiente\npara su estricta manutención y la de las personas civilmente a su cargo.\n7"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 51,
+    "texto": "Artículo 51. Si el sancionado no pagare la multa, ésta se convertirá a razón de un día de prisión por\ndos días-multa, sin perjuicio de la facultad del Estado de hacerla efectiva en los bienes de aquél o de su\nfiador. \nCuando la multa se convierta en prisión ésta no exced erá de un año. El sancionado podrá en cualquier\ntiempo pagar la multa, descontándose de ella la parte proporcional a la prisión cumplida. \nCuando se impongan conjuntamente la pena de pris ión y multa, y corresponda convertir ésta, se\nadicionará a la prisión impuesta la multa convertida."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 52,
+    "texto": "Artículo 52. La inhabilitación para el ejercicio de funciones públicas es consecuencia de la pena de\nprisión y podrá aplicarse aún cuando ésta haya sido cumplida. \nEsta inhabilitación priva al sancionado del ejercici o de cargos o empleos públicos y de elección popular,\ndel derecho activo y pasivo del sufragio y del de cualquier otro derecho político. \nLa inhabilitación para el ejercicio de las funciones públicas no excederá de 20 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 53,
+    "texto": "Artículo 53. La inhabilitación para el ejercici o de una profesión, oficio, arte o industria, es\nconsecuencia de las penas principales que se imponga n por un hecho punible cometido con abuso de su\nprofesión, oficio, arte o industria o con la violación de alguno de los deberes que le sean inherentes. Esta\ninhabilitación durará por el tiempo de su condena y por un período posterior cuando la ley así lo\ndisponga. \nDurante el cumplimiento de su pe na, podrá autorizarse al inhabilitado para ejercer su profesión, oficio,\narte o industria dentro de los límites del establecimiento, previa la autorización del Director de la prisión y\ncon conocimiento del Departamento de Corrección."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 54,
+    "texto": "Artículo 54. La interdicción legal c onsiste en la privación de los der echos civiles que genera la patria\npotestad y de la aptitud para ejercer la tutela o curatela."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 55,
+    "texto": "Artículo 55. El comiso consiste en la pérdida y adjudicación al Estado de los instrumentos con los\nque hubiese cometido el hecho punible y de los efect os que provengan de éste, salvo los que pertenezcan\na un tercero no responsable del hecho. \nLos efectos o instrumentos decomisados serán vendi dos, si son de lícito comercio, y su producto se\naplicará a cubrir las responsabilidades civiles del sancionado; los ilícitos serán inutilizados o destruidos. \nCAPITULO II \nAPLICACION DE LAS PENAS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 56,
+    "texto": "Artículo 56. El juez fijará la pena dentro de lo s límites señalados para cada delito, teniendo en cuenta\nlos siguientes factores: \n1. Los aspectos objetivos y subjetivos del hecho punible; \n2. La importancia de la lesión o del peligro; \n3. Las circunstancias de modo, tiempo y lugar; \n4. La calidad de los motivos determinantes; \n5. Las demás condiciones personales del sujeto activo o de la víctima en la medida en que haya influido\nen la comisión del hecho punible; \n6. La conducta del agente, anterior, simultánea o posterior al hecho punible; y \n7. El valor o la importancia de la cosa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 57,
+    "texto": "Artículo 57. No se pueden aumentar ni disminuir l as penas, sino de conformidad con una disposición\nexpresa de la ley.\n8\nEl aumento o la disminución se harán sobre la pena que debería aplicar el Tribunal al reo, prescindiendo\nde las circunstancias que ordena la ley tener en cuenta para el aumento o la rebaja. \nEn caso de concurrencia de circunstancias que hagan aumentar y de circunstancias que hagan disminuir la\npena, se empezará por el aumento y luego se harán las disminuciones, pero esta operación se efectuará\nsobre la pena señalada originalmente por el Tribunal. \nSalvo disposición expresa de la ley, en los aument os y disminuciones de pena no se podrán traspasar los\nlímites señalados para ello en este código."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 58,
+    "texto": "Artículo 58. Para el cómputo de la pena impuesta en  la sentencia, se tendrá en cuenta el tiempo de la\ndetención preventiva a razón de un día de detención por cada día de prisión. \nSi la pena correspondiente al delito por el que resu ltare definitivamente sentenciado, fuere la de días-\nmulta, la detención preventiva se le computará a razón de dos días por cada día de detención."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 59,
+    "texto": "Artículo 59. El que después de haber cumplido una sentencia condenatoria, sea declarado responsable\npor la ejecución de un nuevo hecho punible, se le aplicará la sanción que a éste le corresponda, aumentada\nhasta en una cuarta parte. \nLa pena así impuesta podrá exceder del máximo señalado en la disposición penal infringida."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 60,
+    "texto": "Artículo 60. La tentativa será reprimida con pena no menor de un tercio del mínimo ni mayor de los\ndos tercios del máximo de la establecida para el correspondiente hecho punible."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 61,
+    "texto": "Artículo 61. Los autores, cómplices primarios e instigadores, serán sancionados con la pena que la ley\nseñala al hecho punible. \nAl complice secundario le será impuesta pena no menor de  la mitad del mínimo ni  mayor de la mitad del\nmáximo de la establecida para el hecho punible. \nCAPITULO III \nUNIDAD Y PLURALIDAD DE HECHOS PUNIBLES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 62,
+    "texto": "Artículo 62. Se considera como un solo delito la  infracción repetida de una misma disposición penal\ncuando revele ser ejecución del mismo designio, pero la pena se aumentará, en ese caso, desde la sexta\nparte hasta la mitad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 63,
+    "texto": "Artículo 63. El que con un solo acto viole varias disposiciones de la Ley Penal, será sancionado con\nla pena más grave de las señaladas por esas varias disposiciones."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 64,
+    "texto": "Artículo 64. Si hubiere de juzgarse a la vez a un individuo por dos o más hechos punibles que tengan\nuna misma clase de pena, se le sancionará así: \na) Si son dos los hechos punibles, se le impondrá la pena por el más grave, con un aumento de hasta la\ntercera parte de la pena que le correspondería por el otro; \nb) Si son tres o más los hechos punibles, se le impondrá la pena señalada para el más grave de ellos y se le\naumentará hasta la mitad de las penas sumadas que le correspenderían por los demás. \nEn ninguno de los casos antes mencionados, la pena  podrá exceder del máximo legal señalado en los\nArtículos 47 y 48."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 65,
+    "texto": "Artículo 65. Si hubiere de juzgarse a un individu o por dos o más delitos y uno de ellos tiene pena de\nprisión y los otros de días-multa, el Juez le impondrá la  de prisión y hasta la mitad de las penas sumadas\nde días multa que le corresponderían por los demás delitos. \nSi se juzgare a un individuo por tres o más delitos y dos o más de ellos tiene pena de prisión y los demás\nde días-multa, el juez aplicará la pena de prisión de  acuerdo con las reglas señaladas en los literales (a) y\n9\n(b) del Artículo anterior, con un aumento hasta de l as tres cuartas partes de las penas sumadas de días-\nmulta que le corresponderían por los otros delitos. \nLa pena en ningún caso podrá exceder del máximo preceptuado en los Artículos 47 y 48.\nCAPITULO IV \nCIRCUNSTANCIAS QUE MODIFICAN LA RESPONSABILIDAD PENAL"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 66,
+    "texto": "Artículo 66. Son circunstancias atenuantes com unes, cuando no estén previstas como elementos\nconstitutivos o como atenuante específica de un determinado hecho punible, las siguientes: \n1. Haber actuado por motivos nobles o altruistas; \n2. No haber tenido la intención de causar un mal de tanta gravedad como el que produjo. \n3. Las condiciones físicas o psíquicas que colocaron al agente en situación de inferioridad; \n4. El arrepentimiento, cuando por actos posteriores a la ejecución del hecho, el agente ha disminuido o in- \ntentado disminuir sus consecuencias; \n5. La confesión espontánea y oportuna del agente. \n6. La supina ignorancia del agente \n7. Las eximentes incompletas; y \n8. Cualquier otra circunstancia no preestablecida por la  ley, que a juicio del Tribunal deba ser apreciada\npor su analogía con las anteriores o por peculiares condiciones del ambiente."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 67,
+    "texto": "Artículo 67. Son circunstancias agravantes ordi narias comunes, cuando no estén previstas como\nelemento constitutivo o como agravante específica de un determinado hecho punible, las siguientes: \n1. Abusar de superioridad o emplear medios que debiliten la defensa del ofendido. \n2. Ejecutar el hecho por medio de inundación, ince ndio, veneno, explosión, varamiento de buques, o\navería causada de propósito en nave  o aeronave, descarrilamiento de tren o el empleo de otro medio que\npueda ocasionar grandes estragos o cometer el hecho aprovechándose de los expresados siniestros u otra\ncalamidad semejante; \n3. Obrar con ensañamiento; \n4. Cometer el hecho mediante precio, recompensa o promesa; \n5. Emplear astucia, fraude o disfraz; \n6. Ejecutarlo con abuso de autoridad, de la confianza pública o de las facultades inherentes a la profesión que ejerza\nel agente o al cargo que desempeña; \n7. Perpetrarlo con armas o con auxilio de otr as personas que faciliten la ejecución o procuren la\nimpunidad; \n8. Cometer el hecho con escalamiento o fractura; \n9. Embriagarse deliberadamente para cometer el h echo punible o emplear drogas u otras sustancias con el\nmismo fin, y \n10. Haber cometido el hecho punible con abuso de  las relaciones domésticas, prestación de obras o de\nservicios, de cohabitación o de hospitalidad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 68,
+    "texto": "Artículo 68. Es circunstancia atenuante o agravante, según la naturaleza, los motivos y los efectos del\ndelito, ser el agraviado pariente cercano del ofensor. \nPara los fines de la ley penal, se consideran pari entes cercanos el cónyuge y los parientes dentro del\ncuarto grado de consanguinidad o segundo de afinidad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 69,
+    "texto": "Artículo 69. Cada una de las ci rcunstancias atenuantes mencionadas en el Artículo 66 da lugar a que\nse le reconozca al procesado una disminución de la pena de una sexta a una tercera parte. \nEn ningún caso la pena así rebajada será inferior al mínimo señalado en los Artículos 47 y 48.\n10"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 70,
+    "texto": "Artículo 70. La existencia de circunstancias agravantes en un hec ho punible dan lugar al aumento de\nla pena de una sexta a una tercera parte. por cada una  de ellas. Sin embargo, la pena así aumentada no\ndeberá exceder la mitad del máximo de la pena fijada para el delito.\nCAPITULO V \nREINCIDENCIA, HABITUALIDAD Y PROFESIONALISMO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 71,
+    "texto": "Artículo 71. Es reincidente quien comete un nuevo hecho punible después de haber sido sancionado\npor sentencia firme de un Tribunal del país o del extranjero de c onformidad con lo establecido en el\nArtículo 11 de este Código."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 72,
+    "texto": "Artículo 72. No hay reincidencia: \n1. Cuando el nuevo hecho punible sea doloso y el anterior culposo o viceversa; \n2. Cuando hubieren transcurrido cinco años después de cumplida la condena anterior, y el sujeto hubiere\nobservado buena conducta desde esa época, y \n3. Cuando se cometan hechos punibles de naturaleza política o militar."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 73,
+    "texto": "Artículo 73. Será declarado delincuente habitual quien después de haber sido sancionado en el país o\nen el extranjero por dos o más delitos dolosos, come tiere otro y se demostrare su inclinación a delinquir.\nNo se tomarán en cuenta para la declaración de habitualidad ni los delitos políticos ni los fiscales. \nAl delincuente habitual se le aplicará la respectiva medida de seguridad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 74,
+    "texto": "Artículo 74. Será declarado delincuente profesiona l quien haya hecho de su conducta delictiva un\nmodo de vivir. \nAl delincuente profesional se le aplicará la respectiva medida de seguridad o se le agravará la pena de\nacuerdo con el Artículo 70 de este Código.\nCAPITULO VI \nAPLAZAMIENTO DE LA EJECUCION DE LA PENA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 75,
+    "texto": "Artículo 75. La ejecución de la pena de prisión deberá diferirse: \n1. Si la persona que debe cumplirla se halla en grave peligro de muerte próxima por razón de enfermedad,\nhasta cuando el riesgo desaparezca. \n2. Si se trata de mujer embarazada o que haya dado a luz recientemente, hasta cuando la criatura haya\ncumplido 6 meses."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 76,
+    "texto": "Artículo 76. Si antes de comenzar la ejecución de la pena de prisión o después de iniciada ésta, el\nsancionado padeciera enfermedad mental, el Tribunal su spenderá el cumplimiento de la pena y ordenará\nel traslado del reo a un hospital psiquiátrico u otro establecimiento adecuado. \nCuando el sancionado sane y los peritos médicos así  lo autoricen, será transferido nuevamente al\nestablecimiento penitenciario correspondiente para que cumpla el resto de la pena, si ésta no ha prescrito.\nCAPITULO VII \nSUSPENSION CONDICIONAL DE LA EJECUCION DE LA PENA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 77,
+    "texto": "Artículo 77. Se confiere a los Tribunales la facu ltad de suspender condiciona lmente de oficio o a\npetición de parte, la ejecución de la pena cuya duración no exceda de 2 años de prisión.\n11\nEl término de esta suspensión será de 2 a 5 años a par tir de la fecha en que la sentencia quede firme y\natendida las circunstancias del hecho y la extensión de la pena impuesta."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 78,
+    "texto": "Artículo 78. Serán condiciones indispensables para suspender la ejecución de la pena: \n1. Que el reo haya observado antes de la comisión del hecho punible, una vida ejemplar de trabajo y\ncumplimiento de sus deberes y que con posterioridad al acto delictivo haya demostrado arrepentimiento; \n2. Que se trate de delincuente primario; \n3. Que se comprometa a hacer efectiva la responsabilid ad civil, si se le hubiere condenado a ello, en un\ntérmino prudencial que el Tribunal señalará, a menos que causas justificadas le impidan cumplir dicha\nobligación. \nPara que proceda la suspensión condicional de la ejecu ción de la pena en los delitos contra el honor, será\nnecesario que el reo haya cumplido con la indemnización civil a la que se le haya condenado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 79,
+    "texto": "Artículo 79. Al acordar la suspensión condicional, el Tribunal podrá imponerle al sancionado\ncondiciones como la sujeción a la vigilancia de las autoridades del Ministerio de Gobierno y Justicia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 80,
+    "texto": "Artículo 80. La suspensión condicional de la pena será revocada: \n1. Si el sancionado no cumpliere las condiciones impuestas; o \n2. Si perpetrare un nuevo hecho punible durante el tiempo de la suspensión. \nLa revocatoria implica el cumplimiento integro de la pena."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 81,
+    "texto": "Artículo 81. En caso de que el reo cumpla con las condiciones impuestas por el Tribual y no delinca\ndurante el tiempo de suspensión condicional, quedará extinguida la pena.\nCAPITULO VIII \nREEMPLAZO DE LAS PENAS CORTAS DE PRIVACION DE LIBERTAD"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 82,
+    "texto": "Artículo 82. Cuando no proceda la suspensión condicional de la pena, el Tribunal podrá reemplazar la\npena de prisión impuesta no mayor de un año por una de las siguientes: \n1. Conversión a días multa, y \n2. Reprensión pública o privada."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 83,
+    "texto": "Artículo 83. La pena de prisi ón que no exceda de seis meses podrá ser sustituida por la reprensión\npública o privada o por días multa no menor de 25 ni mayor de 75. \nLa reprensión pública la recibirá personalmente el sancionado en la audiencia del Tribunal a puerta\nabierta. \nLa reprensión privada se hará en cambio, a puerta cerrada ante el Tribunal constituido para este fin. \nLa reprensión irá acompañada de la advertencia conmin atoria de que si delinque de nuevo en el plazo de\nun año se le hará cumplir, junto a la nueva pena por el  hecho en que ha incurrido, la que le fue sustituida\npor la reprensión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 84,
+    "texto": "Artículo 84. La pena de prisión que exceda de seis meses y no sea mayor de un año, podrá ser\nsustituida por el Juez por la de días-multa, no menor de 25 ni mayor de 75.\nCAPITULO IX \nLIBERTAD CONDICIONAL\n12"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 85,
+    "texto": "Artículo 85. El sancionado con pena  de prisión que haya cumplido dos tercios de su condena con\níndices de readaptación, buena conducta y cumplimient o de los reglamentos carcelarios, podrá obtener la\nlibertad condicional."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 86,
+    "texto": "Artículo 86. La libertad condicional, otorgada  por el Organo Ejecutivo, mediante Resolución,\nconllevará para el beneficiado el cumplimiento de las siguientes obligaciones: \n1. Residir en el lugar que se le fije y no cambiar de domicilio sin autorización previa; \n2. Observar las reglas de vigilancia que señala la Resolución; \n3. Adoptar un medio lícito de subsistencia. \n4. No incurrir en la comisión de nuevo delito ni de falta grave, y \n5. Someterse a la observación del organismo que designe el Organo Ejecutivo. \nEstas obligaciones regirán hasta el vencimiento de la pe na a partir del día en que el reo obtuvo la libertad\ncondicional."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 87,
+    "texto": "Artículo 87. Transcurrido el término de la condena sin que el beneficio de la libertad condicional\nhaya sido revocado, la pena se considerará cumplida."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 88,
+    "texto": "Artículo 88. La libertad condicional será revocada si el beneficiado no cumple con las obligaciones\nfijadas por el organismo que la concedió. \nEn este caso el liberado reingresará al establecimi ento carcelario y no se le computará el tiempo que\npermaneció libre."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 89,
+    "texto": "Artículo 89. El reincidente por cualquier hecho punible a quien se le haya impuesto una pena de\nprisión, podrá obtener su libertad condicional, pero el plazo fijado en el Artículo 82 será aumentado\nprudencialmente por el organismo correspondiente.\nTITULO IV \nEXTINCION DE LAS ACCIONES PENALES Y DE LAS PENAS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 90,
+    "texto": "Artículo 90. La muerte del procesado extingue la  acción penal por lo que a él respecta y la del\nsancionado extingue toda clase de pena."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 91,
+    "texto": "Artículo 91. La amnistía y el indulto por delitos políticos extinguen la acción penal y la pena."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 92,
+    "texto": "Artículo 92. En los delitos de acción privada el perd ón del ofendido o de sus representantes legales si\nfuere incapaz, extingue la acción penal, pero no hace cesar la ejecución de la condena sino en los casos en\nque lo determine expresamente la ley. \nSi los ofendidos son varios, cada uno de ellos puede otorgar separadamente el perdón. \nSi los responsables son varios, el perdón del ofendido alcanzará a todos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 93,
+    "texto": "Artículo 93. La acción penal prescribe: \n1. Cumplidos 20 años después de la comisión del hec ho punible, si el mismo tiene pena de prisión cuyo\nmáximo excede de 15 años. \n2. Cumplidos 12 años después de la comisión del hec ho punible, si la pena de prisión para el delito es\nmayor de 6 años y no excede de 15 años; \n3. Cumplidos 6 años después de la comisión del hecho punible, si la pena señalada en la ley es mayor de 6\nmeses y no excede de 6 años de prisión, y \n4. Cumplidos 3 años en los hechos punibles penados con días multa.\n13"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 94,
+    "texto": "Artículo 94. La prescripción de la acción penal comenzará a correr para los hechos punibles\nconsumados desde el día de la consumación; para los continuados y permanentes, desde el día en que\ncesaron, y para las tentativas desde el día en que se realizó el último acto de ejecución."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 95,
+    "texto": "Artículo 95. La prescripción de la acción penal se interrumpe por el auto de enjuiciamiento. \nLa interrupción que así se produzca no puede prolonga r el término de la acción penal por un tiempo que\nexceda de los plazos fijados en el"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 93,
+    "texto": "Artículo 93. Dicha interrupción afecta a todos cuantos participaron en el\nhecho punible, aunque los actos interruptivos, no afecten sino a uno solo. \nLa prescripción interrumpida corre de nuevo desde el día de la interrupción."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 96,
+    "texto": "Artículo 96. En el caso de juzgamiento por vari os hechos punibles, las respectivas acciones penales\nque de ellos resultaren prescribirán separadamente en el término señalado a cada uno."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 97,
+    "texto": "Artículo 97. La pena privativa de la libertad impuesta por sentencia ejecutoriada prescribe en un\ntérmino igual al doble de la pena señalada en la sentencia sin que exceda de 25 años. \nSi fuere pecuniaria, en el plazo de 5 años. \nLa prescripción de penas de diferentes clases impuestas en una misma sentencia, se cumplen en el plazo\nfijado para la más grave."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 98,
+    "texto": "Artículo 98. La prescripción de la pena correrá desd e el día en que la sentencia quede ejecutoriada, o\ndesde el día en que se interrumpa por cualquier causa la ejecución de la condena ya empezada a cumplir. \nEn caso de interrupción de la ejecución de la pena, la  parte de la pena cumplida se computará a favor del\nreo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 99,
+    "texto": "Artículo 99. Se interrumpirá la prescripción de la pena, quedando sin efecto, el tiempo transcurrido,\ncuando el reo cometiere un nuevo hecho punible ant es de completar el tiempo de la prescripción sin\nperjuicio de que ésta pueda comenzar a correr de nuevo y de que se le abone la pena ya cumplida. \nTambién se interrumpirá por cualquier acto de la auto ridad competente que tiende a la ejecución de la\nsentencia legalmente notificada al sancionado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 100,
+    "texto": "Artículo 100. La prescripción de la acción penal y de la pena se declararán de oficio o a petición de\nparte. El procesado tiene derecho a renunciar a la prescripción de la acción penal."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 101,
+    "texto": "Artículo 101. La extinción de la acción penal y de la  pena no impide el comiso de los instrumentos\ncon que se cometió el hecho punible y de los efectos  que de él provengan ni la responsabilidad civil\nderivada del mismo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 102,
+    "texto": "Artículo 102. La suspensión condicional de la ejecuci ón de la pena y el otorgamiento de la libertad\ncondicional no afectan la responsabilidad civil ni el comiso."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 103,
+    "texto": "Artículo 103. La rehabilitación extingue los efectos de las penas accesorias de inhabilitación."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 104,
+    "texto": "Artículo 104. La rehabilitación sólo podrá ot orgarse a solicitud del sancionado, cuando éste ha\nobservado buena conducta que haga presumir su arrepentimiento y después de transcurridos 2 años desde\nel día en que quedó cumplida o extinguida la pena principal. \nLos reincidentes no podrán ser rehabilitados sino 6 años después de extinguida. \nLos habituales y profesionales sólo podrán ser rehab ilitados 10 años después de declararse extinguida la\npena que les hubiese sido impuesta. \nPara que se pueda conceder la rehabilitación, es nec esario que quien la solicite haya además satisfecho la\nresponsabilidad civil, salvo que justifique la imposibilidad de haberlo hecho.\n14"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 105,
+    "texto": "Artículo 105. La rehabilitación quedará anulada si n necesidad de que así se declare especialmente, si\nel rehabilitado comete un nuevo hecho punible.\nTITULO V \nMEDIDAS DE SEGURIDAD\nCAPITULO I \nCLASES DE MEDIDAS DE SEGURIDAD"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 106,
+    "texto": "Artículo 106. Las medidas de seguridad son de tres clases: preventivas, educativas y curativas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 107,
+    "texto": "Artículo 107. Las medidas preventivas son aquell as que tienden a evitar la conducta delictiva y no\nconllevan internamiento. Pueden ser de carácter personal o patrimonial."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 108,
+    "texto": "Artículo 108. Son medidas preventivas de carácter personal: \n1. La obligación de presentarse a los organismos especiales encargados de vigilancia que el juez designe; \n2. La prohibición de concurrir a determinados lugares; \n3. La fijación de domicilio, con preferencia en ciertos casos, del lugar de origen del sujeto; \n4. La obligación de abstenerse de bebidas alcohólicas; \n5. La privación de las licencias de conducir automotores, y \n6. La prohibición de portar armas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 109,
+    "texto": "Artículo 109. La caución de buena conducta es una  medida preventiva de carácter patrimonial, que\nconsiste en la garantía de que el sujeto no perpetrará nuevos hec hos punibles y de que cumplirá las\ncondiciones que le sean impuestas durantes (sic) un pe ríodo de prueba, que no será menor de un año ni\nexcederá de cinco. Dicha caución podrá ser personal, hi potecaria o mediante certificado de garantía a\nsatisfacción del juez y por el término que señale la sentencia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 110,
+    "texto": "Artículo 110. Las medidas educativas y curativas tie nen por objeto la modificación de la conducta y\npersonalidad del sujeto, a fin de ev itar la repetición de hechos punibl es y se aplicarán en establecimientos\nespeciales o en secciones adecuadas de los centros penales."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 111,
+    "texto": "Artículo 111. Cuando se impongan medidas de segur idad educativas o curativas, el juzgador podrá\nordenar el internamiento del sujeto tomando en cuenta el peritaje que se realice para tal efecto.\nCAPITULO II \nAPLICACION DE LAS MEDIDAS DE SEGURIDAD"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 112,
+    "texto": "Artículo 112. Las medidas de seguridad se aplicarán así: \n1. Los enfermos mentales, toxicómanos habituales, alcohólicos y los sujetos de imputabilidad disminuida\nserán destinados al hospital psiquiátrico o a los establecimientos de tratamiento especial y educativo; \n2. Los delincuentes habituales o profesionales serán destinados a colonias agrícolas, en donde estarán\nsujetos a un régimen especial de trabajo; y \n3. La obligación de presentarse a los organismos espec iales encargados de vigilancia que el juez designe\nse ordenará en los casos en que se suspenda o termin e una pena o una medida de seguridad o una pena\n(sic) y el Tribunal decida aplicarla por un tiempo prudencial."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 113,
+    "texto": "Artículo 113. Las medidas de seguridad podrán ser aplicadas en los siguientes casos:\n15\n1. Cuando el autor o el partícipe de un hecho pu nible haya sido declarado inimputable o tuviere\ndisminuida su imputabilidad; \n2. Cuando por causa de enfermedad mental se interrumpa la ejecución de la pena que le fue impuesta; \n3. Cuando se trate de un delincuente habitual o profesional; \n4. Cuando la dependencia psicofarmacológica ha determinado la conducta delictiva del reo, y \n5. En los demás casos expresamente señalados en este Código."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 114,
+    "texto": "Artículo 114. No se pondrá fin a la ejecución de la  medida de seguridad antes del vencimiento del\ntérmino señalado en la sentencia mientras no haya transcurrido el término de duración mínimo establecido\nen cada caso."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 115,
+    "texto": "Artículo 115. El término máximo de duración de las medidas de seguridad que impliquen\ninternamiento será de 20 años, salvo las de carácter curativo que subsistirán mientras duren las causas que\nlas motivaron."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 116,
+    "texto": "Artículo 116. Transcurrido el término mínimo de la medida de seguridad a que se refiere al \nArtículo 111, el Tribunal ordenará el examen de  la persona sometida a custodia o tratamiento para\ndecidir si subsisten o no las condiciones que determ inaron las medidas de seguridad. En caso afirmativo,\nel Tribunal fijará otro término para su estudio ulteri or, sin perjuicio de practicar, en cualquier tiempo, un\nnuevo examen del sujeto, cuando hubiere razones suficientes para creer que las condiciones que\ndeterminaron las medidas de seguridad han cesado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 117,
+    "texto": "Artículo 117. SI el Tribunal lo estimare convenien te podrá sustituir una medida de seguridad durante\nsu ejecución por otra más adecuada"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 118,
+    "texto": "Artículo 118. Las medidas de seguridad prescribirán  en los términos y las formas señaladas para le\nprescripción de las penas. No se extinguirán por amnistía ni por Indulto y en ningún caso podrán\nsuspenderse condicionalmente.\nTITULO VI\nRESPONSABILIDAD CIVIL DERIVADA DEL DELITO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 119,
+    "texto": "Artículo 119. De todo delito emana responsabilidad civil para las personas que resulten culpables del\nmismo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 120,
+    "texto": "Artículo 120. En la sentencia condenatoria dictada en juicio criminal se podrá ordenar: \n1. La indemnización del daño material y moral causado a la víctima o a su familia o a un tercero. \n2. La restitución de la cosa obtenida por razón del delito o en su defecto el respectivo valor."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 121,
+    "texto": "Artículo 121. En los casos de inimputabilidad subs iste la responsabilidad civil del incapaz siempre\nque queden asegurados sus alimentos o los gastos que ocasione su internamiento. De ella serán\nsubsidiariamente responsables sus padres, tutor es, curadores y guardadores siempre que hubieren podido\nevitar el daño, o descuidado sus deberes de guarda."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 122,
+    "texto": "Artículo 122. En todos los hechos amparados por una causa de justificación, sus autores están exentos\nde responsabilidad civil, excepto en  el caso de estado de necesidad prev isto en el Artículo 20 cuando se\nafectan bienes patrimoniales. \nLos tribunales señalarán, según su prudente arbitrio, las cuotas proporcionales de que cada beneficiario\ndeba responder.\n16"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 123,
+    "texto": "Artículo 123. Cuando el inferior jerárquico ob rare en virtud de obediencia debida, responderá\ncivilmente con sus bienes el superior que ordenó la ejecución del acto ilícito."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 124,
+    "texto": "Artículo 124. Cuando la víctima haya contribui do con su conducta a la producción del daño, el\nTribunal podrá reducir equitativarnente el monto de la reparación civil."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 125,
+    "texto": "Artículo 125. Los partícipes de un hecho punible,  son solidariamente res ponsables en cuanto a la\nreparación civil. \nEstán igualmente obligados solidariamente con los au tores del hecho punible, al pago de los daños y\nperjuicios: \n1. Las personas naturales o jurídicas dueñas de empresas de transporte terrestre, marítimo o aéreo de\npersonas o de cosas por hechos cometidos por sus trabajadores de transporte, con ocasión del desempeño \nde sus cargos; \n2. Las personas jurídicas cuyos gerentes, administra dores o representantes legales, resulten responsables\nde hechos punibles que impliquen violación de las at ribuciones inherente (sic) al cargo que desempeñan\nen la empresa; \n3. Las personas naturales o jurídicas dueñas de estab lecimiento de cualquier naturaleza, en que se\ncometiere un hecho punible por trabajadores a su servicio y con motivo del desempeño de sus cargos; \n4. Los que a título lucrativo hayan participado de lo s efectos del hecho punible, en el monto en que se\nhayan beneficiado, y \n5. Los que señalen leyes especiales."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 126,
+    "texto": "Artículo 126. El Estado, las instituciones púb licas autónomas, semi-autónomas o descentralizadas así\ncomo los municipios, responderán subsidiariamente en  el monto de los daños y perjuicios derivados de\nlos hechos punibles cometidos por sus servidores con motivo del desempeño de sus cargos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 127,
+    "texto": "Artículo 127. Las obligaciones de restituir, reparar el daño o indemnizar los perjuicios, se transmiten\na los herederos del responsable hasta el monto de la herencia, siempre que la acepten a beneficio de\ninventario. \nEl derecho de recibir la restitución, reparación o i ndemnización, se transmite igualmente a los herederos\ndel perjudicado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 128,
+    "texto": "Artículo 128. En caso de que la responsabilidad civil haya de reclamarse contra persona distinta de la\nque realizó el hecho punible o participo en él, la misma se hará efectiva por la vía civil"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 129,
+    "texto": "Artículo 129. El Estado estará igualmente oblig ado a la reparación civil cuando el procesado\nobtuviere sobreseimiento definitivo después de haber sufrido más de un año de detención preventiva."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 130,
+    "texto": "Artículo 130. La responsabilidad civil derivada de l delito no cesa con el cumplimiento de la pena y\nsólo se extingue por los medios y en la forma determinados en el Código Civil. \nLas causas de extinción de la acción penal y de la  pena no se extienden a las obligaciones civiles\nderivadas del delito. \nLIBRO II\nDE LOS DELITOS\nTITULO I \nDE LOS DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL\nCAPITULO I\nEL HOMICIDIO\n17"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 131,
+    "texto": "Artículo 131. El que cause la muerte de otro, será sancionado con prisión de 5 a 12 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 132,
+    "texto": "Artículo 132. El delito previsto en el Artículo anterior será sancionado con 12 a 20 años de prisión\ncuando se ejecute: \n1. En la persona de un pariente  cercano con conocimiento del parent esco o del padre o madre adoptantes\no hijo adoptivo del homicida. \n2. Con premeditación; \n3. Por motivo fútil o medios de ejecución atroces; \n4. Por precio o promesa remuneratoria; \n5. Para preparar, facilitar o cunsumar otro hecho punible aún cuando éste último no se realice. \n6. Inmediatamente después de haberse cometido otro delito, para asegurar su ocultación, su ventaja o la\nimpunidad para sí o para un tercero o porque no se pudo alcanzar el fin propuesto; \n7. Por medio del incendio, inundación u otros de los delitos contra la seguridad colectiva previstos en el\nTitulo VII de este libro, y \n8. En la persona de un servidor público con motivo del ejercicio de sus funciones."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 133,
+    "texto": "Artículo 133. El que por culpa cause la muerte de otro, incurrirá en prisión de 6 meses a 2 años e\ninterdicción hasta por 2 años del ejercicio del arte , profesión u oficio por medio de los cuales se ocasionó\nla muerte. \nSi del hecho resulta la muerte de varias personas, o la de una sola y la lesión de una o varias personas la\nsanción será de 2 a 4 años de prisión e interdicción de l ejercicio, arte, profesión u oficio por el mismo\ntérmino después de cumplida la pena principal. \nLas sanciones señaladas en los párrafo s anteriores se aumentarán de una sexta a una tercera parte cuando\nel hecho punible se cometa en un accidente de tránsito y el autor se dé a la fuga."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 134,
+    "texto": "Artículo 134. El que induzca a otro a suicidarse o lo  ayude con este fin, incurrirá, cuando el suicidio\nse cumpla, en prisión de 1 a 5 años.\nCAPITULO II\nLESIONES PERSONALES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 135,
+    "texto": "Artículo 135. El que, sin intención de matar, cause a otro un daño corporal o psíquico que le\nincapacite por un tiempo que no exceda de 30 días será sancionado con 40 a 100 días-multas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 136,
+    "texto": "Artículo 136. Si la lesión produce el debilitamiento  permanente de un sentido o de un órgano, o una\nseñal visible a simple vista y permanente en el ro stro, o si la incapacidad excediera de 30 días, o si\ninferida a mujer encinta apresura el alumbramiento, la sanción será de 1 a 3 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 137,
+    "texto": "Artículo 137. Si la lesión produce daño corporal o ps íquico incurable, la pérdida de un sentido, de un\nórgano o de una extremidad, impotencia o pérdida de la capacidad de procrear, alteración permanente de\nla visión, deformación del rostro o del cuerpo de por  vida o incapacidad permanente para el trabajo, la\nsanción será de 2 a 4 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 138,
+    "texto": "Artículo 138. Si las lesiones descritas en los artícul os anteriores causan la muerte de la persona, la\nsanción será de 3 a 5 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 139,
+    "texto": "Artículo 139. El que por culpa cause a otro una lesión personal que produzca incapacidad superior a\n30 días, será sancionado con prisión de 6 meses a 2 años o de 25 a 100 días-multa.\n18\nEn toda condena por lesiones culposas se impondrá la sanción de inhabilitación para el ejercicio de las\nprofesiones o actividades que han dado lugar al resulta do, en la medida en que el tribunal lo estime\npertinente, atendida la importancia del daño producido."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 140,
+    "texto": "Artículo 140. Si a consecuencia de una riña tumultuaria resulta la muerte de alguien sin que se\ndetermine quién o quiénes fueron los autores, serán  sancionados con prisión de 3 a 6 años a los que\nejercieron violencia física sobre la víctima. \nSi del hecho resultan las lesiones descritas en el Artículo 136 la sanción será de 10 a 50 días-multa; si\nfueren las del Artículo 137, de 6 meses a un año y si  fuesen las previstas por el Artículo 138, la sanción\nserá de 1 a 2 años de prisión.\nCAPITULO III\nABORTO PROVOCADO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 141,
+    "texto": "Artículo 141. La mujer que cause su aborto o c onsienta que alguien se lo practique, será sancionada\ncon prisión de 1 a 3 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 142,
+    "texto": "Artículo 142. El que provoque el aborto de una mu jer con el consentimiento  de ella, será sancionado\ncon prisión de 3 a 6 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 143,
+    "texto": "Artículo 143. El que provoque el aborto de una mu jer sin su consentimiento o contra su voluntad,\nserá sancionado con prisión de 4 a 8 años. \nSi por consecuencia del aborto o de los medios usados  para provocarlo sobreviene la muerte de la mujer,\nla sanción será de prisión por 5 a 10 años. \nLas sanciones que aquí se establecen se aumentarán en una sexta parte si el culpable de la provocación del\naborto es el marido."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 144,
+    "texto": "Artículo 144. No se aplicarán las penas señaladas en los Artículos anteriores: \n1. Si el aborto es realizado con el consentimiento de la mujer para provocar la destrucción del producto de\nla concepción ocurrida como consecuencia de viol ación carnal, debidamente acreditada en instrucción\nsumarial, y \n2. Si el aborto es realizado con el consentimiento  de la mujer, por graves causas de salud que pongan en\npeligro la vida de la madre o del producto de la concepción. \nEn el caso del numeral 1 es necesario que el delito sea de conocimiento de la autoridad competente y que\nel mismo se practique dentro de los dos primeros meses de embarazo y en el caso del numeral 2,\ncorresponderá a una comisión multidisciplinaria designa da por el Ministerio de Salud determinar las\ncausas graves de salud y autorizar el aborto. \nEn ambos casos el aborto debe ser practicado por un médico en un centro de salud del Estado.\nCAPITULO IV\nABANDONO DE NIÑOS U OTRAS PERSONAS INCAPACES DE VELAR POR SU\nSEGURIDAD O SU SALUD"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 145,
+    "texto": "Artículo 145. El que abandone a un niño menor de  12 años o a una persona incapaz de velar por su\nseguridad o salud, que estuviere bajo su guarda y cuidado, será sancionado con prisión de 6 meses a 1\naño. \nSi el abandono resulta un grave perjuicio para el  cuerpo o la salud de la persona abandonada o una\nperturbación mental, el culpable será sancionado con pr isión de 12 a 30 meses y de 3 a 5 años si por el\ndelito de abandono se produce la muerte.\n19"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 146,
+    "texto": "Artículo 146. El que encuentre a un niño perdido o desamparado menor de 12 años o a cualquiera\notra persona incapaz de valerse por sí misma por  causa de enfermedad mental o corporal y omita\nsocorrerlo o dar aviso inmediato a la autoridad, será sancionado con 20 a 100 días-multa. \nEn la misma pena incurre el que habiendo encontra do a una persona herida, inválida o amenazada de un\npeligro cualquiera, omita prestar el auxilio necesario o dar aviso a la autoridad. \nTITULO II\nDELITOS CONTRA LA LIBERTAD\nCAPITULO I\nDELITOS CONTRA LAS LIBERTADES POLITICAS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 147,
+    "texto": "Artículo 147. Quien impida o paralice total o parc ialmente el ejercicio de cualesquiera de los\nderechos políticos será sancionado c on prisión de 6 a 20 meses y de 15 a 100 días de multa, siempre que\nel hecho no esté previsto en alguna otra disposición especial de este Código. \nSi el autor fuere un servidor público y hubiere cometi do el delito con abuso de sus funciones, la sanción\nserá de 8 a 40 meses de prisión.\nCAPITULO II\nDELITOS CONTRA LA LIBERTAD DEL CULTO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 148,
+    "texto": "Artículo 148. El que impida o perturbe el ejer cicio de un culto permitido en la República, será\nsancionado con 10 a 50 días-multa. \nSi el hecho fuere acompañado de amenazas, violencia, o ultraje, la sanción será de 6 a 12 meses de prisión\no de 50 a 100 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 149,
+    "texto": "Artículo 149. El que destruya o cause daños a lo s objetos destinados a un culto permitido en la\nRepública y el que ultraje a alguno de sus ministros, será sancionado con prisión de 6 a 15 meses o de 50\na 150 dias-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 150,
+    "texto": "Artículo 150. El que profane o ultraje el cadáver de una persona, sustraiga en todo o en parte sus\nrestos mortales o viole una sepultura, será sanciona do con prisión de 6 a 20 meses y de 20 a 100 días\nmulta.\nCAPITULO III\nDELITOS CONTRA LA LIBERTAD INDIVIDUAL"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 151,
+    "texto": "Artículo 151. El que ilegalmente prive a otro de su libertad, será sancionado con prisión de 6 meses a\n3 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 152,
+    "texto": "Artículo 152. Si el delito previsto en el artícul o anterior se cometiere mediante amenaza, sevicia o\nengaño, o por espíritu de venganza o lucro o si resulta re del hecho un perjuicio grave para la salud o los\nbienes de la víctima, la sanción será de 2 a 6 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 153,
+    "texto": "Artículo 153. Si el delito se comete en la persona de un ascendiente o descendiente, el cónyuge, de un\nmiembro del Consejo Nacional de Legislación o de la Asamblea Nacional de Representantes de\n20\nCorregimientos o de un servidor público, por razón del ejercicio de sus funciones, la sanción será de 3 a 8\naños de prisión y de 50 a 200 días de multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 154,
+    "texto": "Artículo 154. La sanción se reducirá de la mita d a las dos terceras partes, si el autor pone\nespontáneamente en libertad a la víctima, antes de que se inicie procedimiento criminal, sin que haya\nalcanzado el objeto que se proponía y sin haberle causado perjuicio alguno."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 155,
+    "texto": "Artículo 155. El que mediante violencia o amenaza obligue a otro a tolerar, hacer u omitir alguna\ncosa, será sancionado con prisión de 6 meses a 1 año y de 30 a 150 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 156,
+    "texto": "Artículo 156. El servidor público que con abuso de sus funciones o infracción de las formalidades\nprescritas por la ley, prive a una persona de la lib ertad, será sancionado con prisión de 1 a 2 años e\ninhabilitación para el ejercicio de funciones públicas por 6 meses a un año y si el hecho punible se comete\ncon alguna de las circunstancias previstas en los artíc ulos anteriores, las sanciones se aumentarán de una\ntercera parte a la mitad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 157,
+    "texto": "Artículo 157. El servidor público que  con abuso de sus funciones, ordene o ejecute requisa en las\nropas o en el cuerpo de una persona, será sanciona do con prisión de 6 meses a un año e inhabilitación\npara ejercer cargos públicos por igual período después de cumplida la pena principal."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 158,
+    "texto": "Artículo 158. El servidor público encargado de la dirección de una cárcel, que admita a una persona\nen ella, sin orden escrita de la autoridad competente  o rehuse obedecer la orden de poner en libertad a\nalguno, emanada de la misma autoridad, será sancionado con prisión de 6 meses a un año."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 159,
+    "texto": "Artículo 159. El servidor público competente que habiendo tenido conocimie nto de una detención\nilegal, omita, retarde tomar medidas para hacerla ce sar o para denunciarla a la autoridad correspondiente\nserá sancionado con 20 a 50 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 160,
+    "texto": "Artículo 160. El servidor público que someta a un detenido a severidades o apremios indebidos, será\nsancionado con prisión de 6 a 20 meses. Si el hecho c onsiste en torturas, castigo infamante, vejaciones o\nmedidas arbitrarias, la sanción será de 2 a 5 años de prisión.\nCAPITULO IV \nDELITOS CONTRA LA LIBERTAD DE REUNION Y DE PRENSA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 161,
+    "texto": "Artículo 161. El que impida una reunión pública pacífica y lícita, será sancionado con prisión de 6\nmeses a 1 año y de 50 a 100 días-multa. \nSi el hecho previsto en el inciso anterior fuere cometido por un servidor público, se le impondrá además,\ninhabilitación para el ejercicio de cargos públicos hasta por 3 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 162,
+    "texto": "Artículo 162. El que impida en cualquier forma la publicación de libros y la libre circulación o\nemisión de prensa periódica, escrita o hablada, será sancionado con prisión de 6 meses a 1 año y de 50 a\n100 días de multa.\nCAPITULO V\nDELITOS CONTRA LA INVIOLABILIDAD DEL DOMICILIO\n21"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 163,
+    "texto": "Artículo 163. El que entre en morada o casa aj ena o en sus dependencias, sea contra la voluntad\nexpresa o presunta de quien tenga derecho a excl uirlo, sea clandestinamente o con engaño, será\nsancionado con prisión de 6 a 20 meses y hasta 30 días-multa. \nLa misma sanción se impondrá al que permanezca en tales lugares contra la voluntad expresa de quien\ntenga derecho a excluirlo o al que se establezca en los mismos clandestinamente o con engaño. \nLa sanción será de 1 a 3 años y de 30 a 100 días-multa  si el hecho fuere cometido con fuerza en las cosas,\nviolencia en las personas, con armas o por dos o más personas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 164,
+    "texto": "Artículo 164. El que se introduzca en oficina privada o en el lugar reservado de trabajo de una\npersona, sin la voluntad de quien ejerza en él su s funciones o actividad profesional o laboral, será\nsancionado con prisión de 6 meses a un año y hasta 25 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 165,
+    "texto": "Artículo 165. El servidor público que allane la mora da, casa o lugar de trabajo, sin las formalidades\nprescritas por la ley o fuera de los casos que ésta de termina, será sancionado con prisión de 6 meses a 1\naño y hasta 30 días-multa.\nCAPITULO VI\nDELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 166,
+    "texto": "Artículo 166. El que abra indebidamente una carta, un pliego cerrado o un despacho cablegráfico o de\notra naturaleza, que no le esté dirigido, o el que sin abrir la correspondencia, por medios técnicos se\nimpusiere de su contenido, será sancionado con 30 a 60 días-multa. \nSi la persona que ha cometido el hecho punible divulga el contenido de la correspondencia mencionada en\nel párrafo anterior, con perjuicio ajeno, la pena será de 10 meses a 2 años de prisión, pero si es empleado\nde Correos y Telecomunicaciones o de alguna em presa privada de comunicaciones nacionales o\ninternacionales, la sanción se aumentará de una sexta parte a la mitad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 167,
+    "texto": "Artículo 167. El que sustraiga, destruya, sustit uya, oculte, extravíe o intercepte correspondencia\ndirigida a otro, será sancionado con prisión de  1 a 2 años y si es empleado de Correos y\nTelecomunicaciones o de alguna empresa privada de comunicaciones nacionales o internacionales, la\nsanción se aumentará de una sexta parte a la mitad. \nSi la persona que ha cometido el hecho punible divulg a el contenido de la correspondencia, con perjuicio\najeno, la pena será de 15 a 30 meses de prisión y si es empleado de Correos y Telecomunicaciones o de\nuna empresa privada de comunicaciones nacionales o internacionales, la sanción se aumentará de una\nsexta parte a la mitad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 168,
+    "texto": "Artículo 168. El que posee legítimamente una co rrespondencia, grabaciones o papeles no destinados\na la publicidad y los haga públic os sin la debida autorización, a unque le hubiesen sido dirigidos, será\nsancionado con 15 a 60 días-multa cuando el hecho pudiere causar perjuicio. \nNo se considerará delito la divulgación de documentos indispensables para la comprensión de la historia y\nlos hechos políticos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 169,
+    "texto": "Artículo 169. El que grabe las palabras de otro no destinadas al público, sin su consentimiento, o el\nque mediante procedimientos técn icos escuche conversaciones privadas que no le estén dirigidas, será\nsancionado con 15 a 50 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 170,
+    "texto": "Artículo 170. El que por razón de su oficio, empl eo, profesión o arte, tenga noticia de secretos cuya\npublicación pueda causar daño y los revele sin consentim iento del interesado o sin que la revelación fuere\nnecesaria para salvaguardar un interés superior, será sancionado con prisión de 10 meses a 2 años o de 30\na 150 días-multa, e inhabilitación para ejercer tal oficio, empleo, profesión o arte hasta por 2 años.\n22"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 171,
+    "texto": "Artículo 171. En los casos de los Artículos 168, 169 y 170, no podrá procederse sino por denuncia de\nla parte agraviada.\nTITULO III\nDELITOS CONTRA EL HONOR\nCAPITULO I\nCALUMNIA E INJURIA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 172,
+    "texto": "Artículo 172. El que atribuya falsamente a una  persona la comisión de un hecho punible, será\nsancionado con pena de 90 a 180 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 173,
+    "texto": "Artículo 173. El que ofenda la dignidad, honra o decoro de una persona mediante escrito o por\ncualquier forma, será sancionado con 60 a 120 días-multa. \nArtículo 173 A. Cuando los delitos descritos en lo s Artículos 172 y 173, se cometan a través de un\nmedio de comunicación social, la pena aplicable será  de 18 a 24 meses de prisión en caso de calumnia y\nde 12 a 18 meses de prisión en caso de injuria."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 174,
+    "texto": "Artículo 174. El cónyuge o los parientes dentro del cuarto grado de consanguinidad o segundo de\nafinidad, que consideren que se ha ofendido inju stamente la memoria de una persona muerta, podrán\nacusar al autor del delito, quien será sancionado con pena de 90 a 180 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 175,
+    "texto": "Artículo 175. El que publique o reproduzca por cualquier medio las ofensas al honor inferidas por\notro, será sancionado con 18 a 24 meses de prisión.\nCAPITULO II \nDISPOSICIONES COMUNES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 176,
+    "texto": "Artículo 176. El acusado de calumnias quedará exen to de pena probando la verdad de los hechos\nimputados. Al acusado de injuria sólo se le admitirá pruebas sobre la verdad de sus imputaciones, cuando\néstas vayan dirigidas contra servidores públicos, corpor aciones públicas y privadas, en razón de los actos\nrelativos al ejercicio de sus funciones, siempre y cua ndo no se refieran a la vida conyugal o privada del\nofendido."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 177,
+    "texto": "Artículo 177. Si el hecho imputado es objeto de un proceso penal pendiente, el juicio por calumnia\nquedará suspendido hasta que en aquel se dicte sentencia, la cual hará cosa juzgada acerca de la existencia\no inexistencia del hecho. \nEl juicio por injuria, cuando el hecho imputado es objeto de un proceso penal pendiente, quedará\nsuspendido sólo en el supuesto consignado en la segunda oración del"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 176,
+    "texto": "Artículo 176. "
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 178,
+    "texto": "Artículo 178. Sin perjuicio de lo establecido en los Artículos 172 y 173 de este Código, no constituyen\ndelito contra el honor, entre otras situaciones, l as discusiones, críticas y opiniones sobre los actos u\nomisiones oficiales de los servidores públicos, relativos al ejercicio de sus funciones, así como la crítica\nliteraria, artística, histórica, científica o profesional."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 179,
+    "texto": "Artículo 179. La sentencia condenatoria por ofensas al honor cometidas públicamente deberá ordenar,\nsi el ofendido lo pidiere, la publicación del pronunciamiento a cargo del sancionado.\n23\nEsta disposición es aplicable también en caso de retractación."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 180,
+    "texto": "Artículo 180. Para proceder en los delitos contra el honor, se requiere querella de la parte ofendida,\nacompañada por la prueba sumaria de su relato. \nEn los casos de querella presentada por el President e de la República, Vicepresidentes de la República,\nMinistros de Estado, Directores de Entidades Descentr alizadas, Legisladores, Magistrados de la Corte\nSuprema de Justicia y del Tribunal Electoral, Proc urador General de la N ación, Procurador de la\nAdministración, Contralor General de la República,  Subcontralor General de la República, Comandante\nJefe de las Fuerzas de Defensa, Miembros del Es tado Mayor de las Fuerzas de Defensa y Embajadores\nacreditados en Panamá, bastará con la comunicaci ón escrita del ofendido de que comparezca ante el\nfuncionario de instrucción.\nTITULO IV\nDELITOS CONTRA EL PATRIMONIO\nCAPITULO I\nHURTO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 181,
+    "texto": "Artículo 181. El que se apodere de una cosa mueble ajena, será sancionado con prisión de 6 meses a 2\naños."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 182,
+    "texto": "Artículo 182. Habrá igualmente hurto en el apode ramiento de cosas pertenecientes a una herencia no\naceptada todavía y de la parte del copropietario de l asociado o del coheredero, sobre las cosas comunes o\npertenecientes a la herencia indivisa que no se hallan en su tenencia.\nLa cantidad de lo hurtado se apreciará previa deducción hecha de lo que pertenezca al culpable."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 183,
+    "texto": "Artículo 183. La sanción por el delito de que trata el Artículo 181 será de 20 a 50 meses de prisión en\nlos casos siguientes: \n1. Cuando el hurto se cometa en las oficinas, ar chivos o establecimientos públicos. sobre cosas que se\nmantienen allí o cuando se cometa en otro lugar, sobre cosas destinadas a algún uso público; \n2. Cuando el hurto se haga por medio de destreza, quitando un objeto que lleva consigo una persona en \nun lugar público o accesible al público; \n3. Cuando el hurto sea de dinero u objetos pertenecientes a los viajeros, en cualquier especie de vehículos,\nde tierra, agua o aire, o en las estaciones o salas de espera de empresas de transporte público; \n4.(DEROGADO) \n5. Cuando se comete un (sic) abuso de confianza, resultante de relaciones recíprocas, de empleo de\nprestación de servicios o del hecho de habitar en una misma casa el autor y la víctima del hurto y cuando\néste es de cosas que, por consecuencia de esas relaciones, se confían al que se apodera de ellas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 184,
+    "texto": "Artículo 184. La sanción será de 30 meses a 6 años de prisión en los siguientes casos: \n1. Si el hecho se comete aprovechándose de la facilidad que resulta de desastres, calamidades,\nconmociones públicas o de un contratiempo particular que sobrevenga a la víctima del hurto; \n2. Si el hecho se comete de noche en un edificio u otro lugar destinado a habitación; \n3. Si el autor para cometer el hecho o para tran sportar la cosa sustraída, destruye, rompe o fuerza\nobstáculos de cualquier naturaleza establecidos para proteger a la persona o a la propiedad, aunque la\nfractura no se ejecute en el lugar mismo del delito; \n4. Si el autor, para realizar el hecho o para tran sportar la cosa sustraída, entra a un edificio, a un campo\ncercado, o sale por una vía diferente de las destin adas al paso ordinario de las personas, franqueando\nobstáculos o barrera de tal clase que no pueden sal varse sino por medios artificiales o de agilidad\npersonal;\n24\n5. Si el hecho se comete por medio de violación de  sellos colocados por un servidor público en virtud de\nuna disposición legal; \n6. Si el hecho lo comete el autor fingiéndose agente de la autoridad; \n7. Si la cosa sustraída es de aquellas que están destin adas a la defensa pública o a procurar auxilios en las\ncalamidades públicas; \n8. Si el hurto fuere de objetos de valor científico, histórico, artístico, cultural, militar o religioso, cuando\npor el lugar en que se encuentren, se hallaren destinados  al servicio, a la utilidad o a la reverencia de un\nnúmero indeterminado de personas, o librados a la confianza pública, y \n9. Cuando se trate de productos agropecuarios que se encuentren en el sitio natural de producción; \n10. Cuando se trate de una o más cabezas de ganado que estén sueltas en dehesas, corrales o caballerizas. \nEn los casos del Numeral 10 de este Artículo, la pena ser á de cuatro (4) a seis (6) años de prisión, si el\nautor del ilícito realiza el hecho mediante fuerza en las puertas, cercas, zarzos en quebradas, ríos, corrales\no establos. \nSe considerará agravante el hecho de que el autor de l ilícito altere o suprima el  ferrete que le ha sido\ncolocado al animal y la pena que se impondrá será de 5 a 6 años. \nArtículo 184-A. El que se apodere de un automóvil, o de una nave aérea, marítima o fluvial, ajenos,\nserá sancionado con pena de 3 a 6 años de prisión. \nLa pena antes señalada será de 5 a 10 años de prisión, si el delito se comete: \n1. Con la intervención de dos o más personas, o \n2. Para enviar el vehículo fuera del territorio nacional.\nCAPITULO II\nROBO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 185,
+    "texto": "Artículo 185. El que mediante violencia o inti midación en las personas se apodere de una cosa\nmueble ajena será sancionado con prisión de 4 a 6 años. \nSi el objeto material de este delito fuera una o más cabezas de ganado que estén sueltas en dehesas,\ncorrales o caballerizas, la pena será de 5 a 7 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 186,
+    "texto": "Artículo 186. La pena a que se refiere el Artículo ante rior será de 5 a 7 años de prisión, si el delito se\ncomete en algunos de los siguientes casos: \n1. Utilizando armas. \n2. Por enmascarado. \n3. Por dos o más personas. \n4. Por medio de actos que afecten la libertad personal.\nCAPITULO III\nEXTORSION Y SECUESTRO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 187,
+    "texto": "Artículo 187. El que para procurar un lucro inde bido para sí o para un tercero, obligue a otro,\nmediante intimidación o amenazas graves, a tomar una di sposición patrimonial perjudicial para sí o para\nun tercero, será sancionado con prisión de 3 a 5 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 188,
+    "texto": "Artículo 188. El que secuestre a una persona para  obtener de ella o de otra, como precio de\nliberación, dinero, cosas o documentos con efecto jurídi co, cualquiera que sea, en favor del culpable o de\notras personas designadas por él, aunque no logre el fin propuesto, será sancionado con prisión de 5 a 7\naños.\n25"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 189,
+    "texto": "Artículo 189. El que, fuera de los casos previs tos en los Artículos 39, 40 y 41, sin dar aviso\npreviamente a la autoridad, lleve correspondencia o mensaje escrito o verbales para que se obtenga el\nobjeto del delito previsto en el Artículo que precede, será sancionado con 20 a 50 días-multa.\nCAPITULO IV\nDE LA ESTAFA Y OTROS FRAUDES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 190,
+    "texto": "Artículo 190. El que engañe a una persona, para procurarse o pr ocurar a un tercero un provecho\nilícito, con perjuicio de otro, será sancionado con prisión de 6 meses a 2 años y de 50 a 150 días-multa. \nLa prisión será aumentada de una cuarta parte a la m itad de la pena si el de lito lo cometen apoderados o\nadministradores en el ejercicio de sus funciones o si se comete en detrimento de la administración pública\no de un establecimiento de beneficencia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 191,
+    "texto": "Artículo 191. El que con el propósito de lograr para  sí o para otro cobro i ndebido de un seguro u otro\nprovecho ilegal; destruya, dañe o haga desaparecer una cosa asegurada, será sancionado con prisión de 1 a\n3 años y con 50 a 150 días-multa. \nIgual sanción se aplicará al asegurado que con el mismo fin produzca una lesión o agrave\nintencionalmente las consecuencias de las lesiones producidas por cualquier otra causa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 192,
+    "texto": "Artículo 192. El que preste dinero a un interés mensual mayor del que establezca la Comisión\nBancaria Nacional será sancionado con 50 a 360 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 193,
+    "texto": "Artículo 193. Cuando para cometer uno de los delitos de que trata este capítulo, el agente se valga de\nun cheque girado contra una cuenta cerrada o contra cuenta corriente inexistente, la sanción será de 1 a 3\naños de prisión y de 50 a 150 días-multa.\nCAPITULO V\nAPROPIACION INDEBIDA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 194,
+    "texto": "Artículo 194. El que se apropie en provecho suyo o de un tercero, de una cosa mueble ajena, que se le\nhaya confiado o entregado por un títu lo no traslaticio de dominio, será sancionado con prisión de 6 meses\na 3 años y de 50 a 250 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 195,
+    "texto": "Artículo 195. Será sancionado con prisión de 30 a 60 días-multa: \n1. El que se apropie de cosas extrav iadas ajenas, sin darle parte a la autoridad local o a su dueño, si\nsupiere quién es, y \n2. El que se apropie de cosas que pertenecen a otro y de las cuales ha entrado en posesión por error o caso\nfortuito. \nArtículo 195 A. El deudor que abandone las co sas dadas en prenda agraria, o que descuide su\nconservación con daños al acreedor, salvo en caso fortuito  o de fuerza mayor, incurrirá en la pena de 6\nmeses a 2 años de prisión, según la importancia del daño, sin perjuicio de la responsabilidad civil que por\ntales actos le corresponda. \nArtículo 195 B. El deudor que disponga de las cosas dadas en prenda como si no estuvieren gravadas,\no que constituya prenda sobre bienes ajenos, incurrirá en pena de prisión de 1 a 3 años.\n26\nArtículo 195 C. En los casos de los dos Artículos anteriores, cuando el deudor restituya las cosas\ndadas en prenda o indemnice monetariamente al acreedor por el valor de las mismas, se estará en lo\ndispuesto en el Artículo 1984 del Código Judicial, modificado por la Ley N° 3 de 22 de enero de 1991.\nCAPITULO VI\nUSURPACION"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 196,
+    "texto": "Artículo 196. El que para apropiarse en todo o en parte una cosa inmueble (sic) que pertenece a otro o\npara sacar provecho de ello, remueva o altere las marcas o señales que determinan sus linderos, será\nsancionado con prisión de 10 meses a 2 años y de 100 a 150 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 197,
+    "texto": "Artículo 197. El que por violencia, amenazas, enga ño, abuso de confianza o clandestinidad despoje a\notro de la posesión o tenencia de un inmueble o de l ejercicio de un derecho real de uso, usufructo,\nhabitación, servidumbre o anticresis constituido s obre un inmueble, será sancionado con prisión de 6\nmeses a 2 años y de 50 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 198,
+    "texto": "Artículo 198. El que por medio de violencia contra las personas perturbe la posesión pacífica o la\ntenencia de un inmueble incurrirá en prisión de 1 a 6 meses y de 10 a 50 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 199,
+    "texto": "Artículo 199. El que invada arbitrariamente terrenos o edificios ajenos, públicos o privados, con el fin\nde obtener cualquier provecho, no contemplado en el Artículo 197, incurrirá en las mismas sanciones\nseñaladas en el Artículo anterior.\nCAPITULO VII\nDAÑOS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 200,
+    "texto": "Artículo 200. El que destruya, inutilice, rompa o de cualquier modo dañe cosas muebles o inmuebles\nque pertenezcan a otro, será sancionado con 10 a 50 días-multa. \nCuando el hecho fuere ejecutado por 2 o más person as la sanción se aumentará hasta la mitad del\nmáximo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 201,
+    "texto": "Artículo 201. Se sancionará con 6 meses a 2 años de  prisión y de 50 a 100 días-multa si el delito de\ndaño se comete: \n1. Por venganza contra un servidor público, a causa del ejercicio de sus funciones; \n2. Por medio de violencia contra personas; \n3. Con destrucción o grave daño en las residencias u oficinas particulares, en los edificios públicos o\ndestinados a uso público o al ejercicio de algún culto, en los edificios u obras militares, naves o aeronaves\ndel Estado, en los monumentos públicos o cementerios o en cosas de valor científico, cultural, histórico o\nartístico, \n4. En las plantaciones o sementeras o en las cercas protectoras de fundos agrícolas o pecuarios.\nCAPITULO VIII\nDISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 202,
+    "texto": "Artículo 202. En los casos de que se trata en este Titulo , si el valor de la cosa material del delito o del\nperjuicio causado por éste fuere de mucha consideración,  el Tribunal puede aumentar la pena hasta en la\nmitad del máximo. Si la cosa materia del delito , o el perjuicio causado es de muy poco valor o\nsignificación, el Tribunal puede reducir la sanción hasta en la mitad del mínimo.\n27\nLas disminuciones previstas en el párrafo anterior no se aplicarán al reincidente, ni al autor de los delitos\nde que tratan los Capítulos II y III de este Título. \nPara determinar el valor de la co sa objeto del delito, se tomará en cuenta su valor real al momento de la\ncomisión del hecho punible al igual que la importancia y utilidad que prestaba a la víctima."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 203,
+    "texto": "Artículo 203. Cuando el autor de uno de los delitos previstos en los Capítulos I, IV, V y VII de este\nTítulo, restituya antes de que se dicte auto de pro ceder, el objeto del delito, o si no pudiéndose hacer la\nrestitución, indemniza plenamente a la víctima por el perjuicio recibido, la sanción se disminuirá de la\ntercera a las dos terceras partes. \nLa sanción se disminuirá de la sexta a la tercera part e si la restitución o la indemnización se hace después\nde dictado el auto de proceder y antes de la expedición de la sentencia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 204,
+    "texto": "Artículo 204. (DEROGADO)\nTITULO V\nDELITOS CONTRA EL ORDEN JURIDICO FAMILIAR Y EL ESTADO CIVIL\nCAPITULO I \nDELITOS CONTRA LA FAMILIA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 205,
+    "texto": "Artículo 205. Los que contraigan matrimonio, a sabiendas de que existe impedimento que cause su nulidad\nabsoluta, serán sancionados con prisión de 6 meses a 1 año."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 206,
+    "texto": "Artículo 206. El que contraiga matrimonio, a sab iendas de que existe impedimento que cause nulidad\nabsoluta y oculta esta circunstancia al otro contrayente, será sancionado con prisión de 1 a 2 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 207,
+    "texto": "Artículo 207. La misma sanción señalada en el ar tículo anterior se aplicará al que mediante engaño\nsimule matrimonio con una persona."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 208,
+    "texto": "Artículo 208. Al servidor público que, a sabiend as, autorice un matrimonio de los comprendidos en\nlos Artículos anteriores, se le aplicará la sanción que en ellos se determina. Si obra con culpa, la sanción\nserá de 15 a 60 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 209,
+    "texto": "Artículo 209. El que con conocimiento de los vínc ulos que lo unen, sostenga relaciones sexuales,\nutilizando sus órganos, otras partes del cuerpo o cualquier objeto, en los genitales u otros orificios\nnaturales, con parientes por consanguinidad o por adopción en línea recta ascendente o descendente, y en\nla línea colateral hasta el segundo grado, será sancionado con prisión de 3 a 5 años.\nCAPITULO II \nDELITOS CONTRA EL ESTADO CIVIL"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 210,
+    "texto": "Artículo 210. El que, ocultando o cambiando un ni ño, suprima o altere su estado civil o el que\ninscriba en los registros del estado civil, a una pers ona inexistente, será sancionado con prisión de 1 a 2\naños."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 211,
+    "texto": "Artículo 211. El que fuera de los casos previstos en el Artículo anterior, deposite un menor en un\nhospicio o establecimiento de beneficencia, oculta ndo su estado civil, será sancionado con prisión de 6\nmeses a 2 años. Si el autor fuere un ascendiente, la pena será de 1 a 3 años de prisión.\nCAPITULO III\n28\nSUSTRACCION DE MENORES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 212,
+    "texto": "Artículo 212. El pariente cercano que sustraiga a un menor de 12 años o a un incapaz, del poder de\nsus padres, tutores, curadores o persona encargada de la  guarda, crianza o cuidado, o el que lo retuviera\ncontra la voluntad de quien ejerza sobre él la patr ia potestad, será sancionado con prisión de 6 meses a 2\naños.\nCAPITULO IV\nINCUMPLIMIENTO DE DEBERES FAMILIARES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 213,
+    "texto": "Artículo 213. El que, estando obligado a proporcionar a otro los medios indispensables de\nsubsistencia, omita el cumplimiento de su deber alimentario, será sancionado con prisión de 6 meses a\n1año o de 50 a 100 días-multa. \nParágrafo: El Juez determinará, para la aplicación de  este Artículo, la situación y recursos económicos del\nobligado a proporcionar alimentos. \nSi resultare fehacientemente que el obligado no tiene recursos económicos el Ju ez lo eximirá de Pena.\n(sic)"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 214,
+    "texto": "Artículo 214. La sanción prevista en el Artículo an terior se agravará en una tercera parte cuando el\nautor para eludir el cumplimiento de su deber de alim entos, renuncie a su trabajo, transponga sus bienes o\npor cualquier otro modo provoque su insolvencia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 215,
+    "texto": "Artículo 215. El que incumpla o abuse de los der echos que le otorgue el ejercicio de la patria\npotestad, la tutela o la curatela, con perjuicio eviden te para el hijo, pupilo o incapaz, será sancionado con\nprisión de 6 meses a 1 año y de 20 a 60 días-multa, ad emás de la pérdida e incapacidad para ejercer los\nrespectivos derechos o cargos. \nSi estos delitos se cometen en perjuicio del cón yuge separado de cuerpo pero no divorciado, de un\nhermano o hermana que no viven en fa milia con el autor del hecho, de un tío, sobrino o afín dentro del\nsegundo grado no se seguirá procedimiento criminal sino por acusación formal del ofendido.\nCAPITULO V \nDE LA VIOLENCIA INTRAFAMILIAR Y EL MALTRATO DE MENORES\nArtículo 215-A. El miembro de una familia que agreda física o psicológicamente a otro miembro,\nserá sancionado con 6 meses a 1 año de prisión, o con medida de seguridad curativa, o con ambas. \nEn caso de agresión psicológica, debidamente comprobada  por el médico psiquiatra forense, el agresor\nprimario será sancionado con la aplicación de medida de seguridad curativa, conforme al \nArtículo 115 del Código Penal, debidamente vigilada por el Departamento de Corrección. \nEn caso de incumplimiento de la medida de seguridad  curativa, el juez podrá sustituirla por prisión de 6\nmeses a 1 año. \nPara los efectos de este capítulo, son miembros de una familia, las personas naturales unidas por el\nvínculo de parentesco o matrimonio, y quienes convivan  con ellos de manera permanente, con exclusión\nde aquellos cuya convivencia esté fundada en vínculos de carácter contractual. \nArtículo 215-B. Si la conducta descrita en el \nArtículo anterior produce el debilitamiento perm anente de un sentido o de un órgano, o una señal\nvisible a simple vista y permanente en el rostro; o si  inferida a mujer encinta apresura el alumbramiento,\nla sanción será de 2 a 4 años de prisión.\n29\nSi la conducta descrita en el Artículo anterior produce daño corporal o psíquico incurable, la pérdida de un\nsentido, de un órgano o extremidad; impotencia o pérdida de la capacidad de procrear; alteración\npermanente de la visión, deformación del rostro o del cuerpo, de por vida, o incapacidad permanente para\nel trabajo, la sanción será de 3 a 5 años de prisión. \nArtículo 215- C. El que maltrate a un menor será sancionado con prisión de 1 a 6 años. \nLas siguientes conductas tipifican el maltrato de menores: \n1. Causar, permitir o hacer que se le cause daño físi co, mental o emocional, incluyendo lesiones físicas\nocasionadas por castigos corporales; \n2. Cometer, inducir o ayudar a que se cometa abuso sexual contra él, u otros actos lascivos o impúdicos, \naunque no impliquen acceso carnal; \n3. Utilizarlo o inducir a que se le utilice, con fines de  lucro, en la mendicidad, en fotografías, películas\npornográficas o en propaganda o publicidad no apropiada para su edad; \n4. Emplearlo en trabajos prohibidos o contrarios a la moral, o que pongan en peligro su vida o salud. \n5. Imponerle trato negligente y malos tratos que puedan afectarle en su salud física o mental. \nArtículo 215 D. El funcionario púb lico o el particular que tenga cono cimiento de la ejecución de un\nhecho tipificado como violencia intrafamiliar o maltrat o de menores, y no ponga en conocimiento de las\nautoridades la comisión del delito, será sancionado con 50 a 150 días multa. \nEn caso de no probarse la comisión del delito, el func ionario público o el par ticular quedará exento de\ncualquier responsabilidad legal por razón de la denuncia.\nTITULO VI \nDELITOS CONTRA EL PUDOR Y LA LIBERTAD SEXUAL\nCAPITULO I \nVIOLACION, ESTUPRO Y ABUSOS DESHONESTOS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 216,
+    "texto": "Artículo 216. El que tenga acceso sexual con pers ona de uno u otro sexo, utilizando sus órganos\ngenitales u otras partes de su cuerpo, o introduciendo cualquier objeto en los genitales, boca o en el ano\nde la víctima, será sancionado con prisión de 3 a 10 años, en los siguientes casos: \n1. Cuando se use violencia o intimidación; \n2. Cuando la persona ofendida se ha llare privada de razón o de sentido, o cuando por enfermedad física o\nmental o por cualquier otra causa no pueda resistir; \n3. Cuando la víctima se encuentre detenida o presa y confiada al culpable para  vigilarla o conducirla de\nun lugar a otro, y \n4. Con persona de uno u otro sexo que no hubiere cu mplido 14 años, aunque no c oncurra ninguna de las\ncircunstancias expresadas anteriormente."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 217,
+    "texto": "Artículo 217. (DEROGADO)"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 218,
+    "texto": "Artículo 218. La sanción de los hechos descritos en  los Artículos precedentes será de 5 a 10 años de\nprisión:\n1. Cuando con motivo de la violación resulte un grave daño en la salud de la víctima; \n2. Si los hechos fueren perpetrados por un ascendiente, tutor o curador; \n3. Que se cometa con abuso de autoridad o de confianza, y \n4. Que se cometa con el concurso simultáneo de dos o más personas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 219,
+    "texto": "Artículo 219. El que tenga acceso carnal con una mujer doncella, mayor de 14 años y menor de 18,\ncon su consentimiento, será sancionado con prisión de 1 a 3 años.\n30\nSi mediase promesa de matrimonio, o si el hecho lo co mete un pariente, ministro de culto que la víctima\nprofese, tutor, maestro o encargado, por cualquier título , de la educación, guarda o crianza de la víctima,\nla pena se aumentará hasta el doble."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 220,
+    "texto": "Artículo 220. El que sin la finalidad de lograr acceso carnal ejecute actos libidinosos en perjuicio de\npersona, de uno u otro sexo, mediante violencia o intimidación, o cuando la víctima no hubiese cumplido\n14 años o no pudiese resistir, será sancionado con prisión de 3 a 6 años. \nLa sanción se aumentará de una tercera parte, a la mitad, si concurre alguna de las circunstancias\nestablecidas en el párrafo segundo del"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 219,
+    "texto": "Artículo 219. CAPITULO II\nRAPTO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 221,
+    "texto": "Artículo 221. El que con propósitos deshonestos  sustraiga o retenga a una persona mediante\nviolencia, intimidación o engaño será sancionado con prisión de 1 a 3 años. \nSi la víctima no ha cumplido 12 años o es incapaz, aunque no medie violencia, intimidación o engaño, la\nsanción será de 2 a 4 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 222,
+    "texto": "Artículo 222. El que rapte a una persona mayor de 12 años y menor de 15 con su consentimiento, será\nsancionado con prisión de 6 meses a 3 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 223,
+    "texto": "Artículo 223. Se disminuirá a la mitad la san ción señalada en los Artículos precedentes cuando el\nautor, sin haber practicado con la víctima acto des honesto alguno, le restituye la libertad o la coloca en\nlugar seguro, a disposición de su familia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 224,
+    "texto": "Artículo 224. Si el autor al efectuar el rapto o a continuación de realizarlo, ejecuta otro delito contra\nla víctima, se aplicarán acumulativamente la sanción correspondiente al rapto y la señalada para el otro\ndelito."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 225,
+    "texto": "Artículo 225. En los casos de los Artículos 219 y 222, quedará extinguida la acción o la pena, según\nsea el caso, cuando el autor contraiga matrimonio con la ofendida. Los efectos de la extinción alcanzan a\ntodos los partícipes.\nCAPITULO III\nCORRUPCION, PROXENETISMO Y RUFIANISMO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 226,
+    "texto": "Artículo 226. El que corrompa o facilite la corrupc ión de una persona menor  de 18 años, practicando\ncon ella un acto impúdico, o induciéndo la a practicarlo o presenciarlo, será sancionado con prisión de 2 a\n4 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 227,
+    "texto": "Artículo 227. En los casos del Artículo anterior, la sanción será elevada de un tercio a la mitad,\ncuando: \n1. La víctima fuere menor de 12 años; \n2. El hecho fuere ejecutado con propósitos de lucro; \n3. El hecho fuere ejecutado por medio de engaño, viol encia, abuso de autoridad, o cualquier otro medio\nde intimidación o coerción, y \n4. El autor fuere pariente cercano, tutor o encargado de la educación, dirección, guarda o custodia de la\nvíctima.\n31"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 228,
+    "texto": "Artículo 228. El que, con ánimo de lucro o para  satisfacer deseos ajenos , promueva o facilite la\nprostitución de personas de uno u otro sexo, será sancionado con prisión de 2 a 4 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 229,
+    "texto": "Artículo 229. La sanción por la comisión del hecho anterior será de 3 a 5 años de prisión en los\nsiguientes casos: \n1. Si la víctima es mujer menor de 12 años o varón que no haya cumplido 14; \n2. Cuando medie engaño, violencia, abuso de autoridad o cualquier medio de intimidación o coerción; \n3. Cuando lo cometan los parientes cercanos de la ví ctima o el tutor, curador o cualquier otra persona a\nquien se haya confiado la guarda o custodia por razones familiares, de vigilancia, educación o instrucción,\ny \n4. Cuando el autor sea delincuente habitual o profesional en estos delitos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 230,
+    "texto": "Artículo 230. El que se hiciere mantener, aunque  sea parcialmente, por una persona que ejerza la\nprostitución, será sancionado con prisión de 2 a 4 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 231,
+    "texto": "Artículo 231. El que promueva o facilite la entrada o salida del país de una persona para que ejerza la\nprostitución, será sancionado con prisión de 2 a 4 años. \nLa sanción se elevará a 6 años si concurre alguna de las circunstancias enumeradas en el"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 227,
+    "texto": "Artículo 227. \\\nTITULO VII \nDELITOS CONTRA LA SEGURIDAD COLECTIVA\nCAPITULO I\nINCENDIO, INUNDACION Y OTROS DELITOS DE PELIGRO COMUN"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 232,
+    "texto": "Artículo 232. El que mediante incendio, o expl osión cause un peligro común para los bienes o las\npersonas, será sancionado con prisión de 3 a 8 años. \nLa sanción será: \n1. De 4 a 12 años de prisión si hubiere extensión de l fuego, explosión o destrucción de bienes de valor\ncientífico, artístico, histórico, religioso, militar, ec onómico y de seguridad pública o si hubiere peligro de\nmuerte para alguna persona, y \n2. De 8 a 18 años de prisión si el hecho fue la causa inmediata de la muerte de alguna persona."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 233,
+    "texto": "Artículo 233. El que cause estragos por medio de inundación, desmoramiento (sic), derrumbe de un\nedificio o por cualquier otro medio poderoso de destrucción, será sancionado, según los casos, con las\npenas señaladas en el Artículo anterior."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 234,
+    "texto": "Artículo 234. El que dañe o inutilice diques u obras destinadas a la defensa común contra desastres\nhaciendo surgir el peligro de que éstos se produzcan, será sancionado con prisión de 1 a 6 años. \nLa misma sanción se aplicará al que para impedir o dificultar las tareas de defensa contra un desastre,\nsustraiga, oculte o inutilice materiales, instrumentos u otros medios destinados a la defensa referida."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 235,
+    "texto": "Artículo 235. El que dañe o inutilice canales, represas u otras obras destinadas a la irrigación,\nconducción de agua y producción o conducción de energía eléctrica o sustancias energéticas, será\nsancionado con prisión de 3 a 8 años. \nSi como consecuencia de la comisión de los hechos  antes descritos se produce la muerte de una o varias\npersonas se aplicará la sanción prevista en el numeral 2 del"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 232,
+    "texto": "Artículo 232. 32"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 236,
+    "texto": "Artículo 236. El que por culpa cause uno de los hec hos punibles definidos en los Artículos 232 y 233,\nserá sancionado con prisión de 6 meses a 2 años. \nLa sanción será de 1 a 3 años cuando concurran las circunstancias del numeral 1, del Artículo 232 y de\nuno a 4 años cuando concurra la circunstancia del numeral 2 del mismo \nArtículo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 237,
+    "texto": "Artículo 237. El que para atentar contra la se guridad colectiva, fabrique, suministre, adquiera,\nsustraiga o posea bombas, materias explosivas, inflam ables, asfixiantes o tóxicas o materiales destinados\na su preparación, será sancionado con prisión de 2 a 6 años.\nCAPITULO II\nDELITOS CONTRA LOS MEDIOS DE TRANSPORTE Y DE COMUNICACION"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 238,
+    "texto": "Artículo 238. El que ejecute cualquier acto que ponga en peligro la seguridad de los medios de\ntransporte terrestre, marítimo o aéreo, será sancionado con prisión de 1 a 6 años. \nSi del hecho resulta colisión, descarrilamiento, nau fragio, varamiento, desastre aéreo u otro accidente\ngrave, la sanción será de 6 a 10 años de prisión. \nSi el desastre causare lesión a alguna persona, la sanción será de 6 a 15 años de prisión y si ocasiona\nalguna muerte, de 8 a 18 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 239,
+    "texto": "Artículo 239. El que ejecute un acto que ponga en peligro la seguridad de los medios de\ncomunicación o que obstaculice el restablecimiento  de comunicaciones interrumpidas, será sancionado\ncon prisión de 1 a 6 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 240,
+    "texto": "Artículo 240. El que por culpa cause un descarrilami ento, un naufragio u otro desastre previsto en\neste Capítulo, será sancionado con prisión de 1 a 3 años. \nSi del hecho resulta lesionada o muerta alguna persona, se impondrá prisión de 1 a 6 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 241,
+    "texto": "Artículo 241. El que sin crear situación de peligro común, impida o estorbe el normal funcionamiento\nde los transportes por tierra, agua o aire, o los servicios públicos de comunicación, será sancionado con\nprisión de 6 meses a 2 años.\nCAPITULO III \nASOCIACION ILICITA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 242,
+    "texto": "Artículo 242. Cuando tres o más personas se asocien  con el propósito de cometer delitos, cada una de\nellas será sancionada, por ese solo hecho, con prisión de 1 a 3 años. \nA los promotores, jefes o dirigentes de la asociaci ón ilícita, la sanción se les aumentará en una cuarta\nparte.\nCAPITULO IV \nPIRATERIA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 243,
+    "texto": "Artículo 243. El que realice algún acto de depredaci ón o violencia contra una nave o contra personas\no cosas que en ella se encuentren, será sancionado con prisión de 2 a 6 años. \nEl que se apodere de una nave o de cosas que perten ezcan a su equipaje, por medio de fraude o violencia\ncometidos contra su comandante o la tripulación, será sancionado con prisión de 5 a 10 años.\n33"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 244,
+    "texto": "Artículo 244. Con la misma pena señalada en el Artículo anterior, será sancionado: \n1. El que, en connivencia con piratas, entregue una nave, su carga o lo que pertenezca a su tripulación; \n2. El que, con amenazas o violencia, se oponga a que  el comandante o la tripulación defiendan la nave\natacada por piratas; \n3. El que, por causa propia o ajena, equipe un buque para destinarlo a la piratería; \n4. El que, a sabiendas, trafique con piratas o les suministre auxilio, y \n5. El que, por medio de violencia aprese una nave, para  desviarla de su ruta o conducirla a lugar diferente\nde su destino."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 245,
+    "texto": "Artículo 245. El que por medio de violencia o amenaza tome control de la dirección de una aeronave,\nserá sancionado con prisión de 5 a 15 años.\nCAPITULO V \nDELITOS CONTRA LA SALUD PUBLICA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 246,
+    "texto": "Artículo 246. El que envenene, contamine o corromp a las aguas potables destinadas al uso público u\notras sustancias destinadas al mismo uso, poniendo en peligro la salud de las personas, será sancionado\ncon prisión de 3 a 10 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 247,
+    "texto": "Artículo 247. El que envenene, contamine o altere  sustancias alimenticias o medicinales, de modo\nque ponga en peligro la salud de las personas, será sancionado con prisión de 2 a 5 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 248,
+    "texto": "Artículo 248. El que, sin haber realizado las conduc tas descritas en los artícul os precedentes, ofrezca\nen venta o entregue a cualquier título sustanci as o cosas peligrosas para la salud, a sabiendas de su\ncarácter nocivo, será sancionado con prisión de 1 a 3 años. \nSi el que realiza la conducta descrita en el inci so anterior es el mismo que envenenó, contaminó o\nadulteró la sustancias, se le agravará la pena hasta en un tercio de la que le corresponda."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 249,
+    "texto": "Artículo 249. El que, estando autorizado para distribuir o vender sustancias medicinales, las\nsuministre en especie, calidad o cantidades diferentes de  las prescritas por el médico o de las declaradas o\nconvenidas, será sancionado con prisión de 6 meses a 1 año y de 10 a 100 dias-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 250,
+    "texto": "Artículo 250. Si como consecuencia de las conduc tas previstas en los Artículos 246 y 247 una o más\npersonas enferman, las sanciones previstas se aument arán de una cuarta a una tercera parte, y si\nsobreviene la muerte de alguno, la sanción será de 8 a 15 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 251,
+    "texto": "Artículo 251. Cuando algunos de los hechos prev istos en los Artículos anteriores fuere cometido por\nculpa, la sanciones aplicables serán las siguientes: \n1. En el caso del Artículo 246, con prisión de 6 a 18 meses; \n2. En el caso del Artículo 247, con prisión de 6 a 12 meses; y, \n3. En los casos de los Artículos 248 y 249, con 50 a 75 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 252,
+    "texto": "Artículo 252. El que propague una enfermedad peligrosa o contagiosa para las personas, o infrinja las\nmedidas sanitarias adoptadas por las autoridades competentes para impedir la introducción o propagación\nde una epidemia, será sancionado con prisión de 1 a 3 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 253,
+    "texto": "Artículo 253. El que exponga a una persona al pelig ro de contagio venéreo, por relación sexual o de\ncualquier otro modo, será sancionado con 6 a 12 meses de prisión y de 20 a 100 dias-multa. \nSi el hecho previsto en el párrafo precedente se comete por culpa, la sanción será de 10 a 50 días-multa.\n34"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 254,
+    "texto": "Artículo 254. El médico que omita denunciar a la autoridad correspondiente algún caso de\nenfermedad cuya notificación es obligatoria según  las normas sanitarias, será sancionado con 20 a 100\ndías-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 255,
+    "texto": "Artículo 255. El que introduzca droga al territori o nacional, aunque sea en tránsito, la saque o la\nintente sacar, en tráfico o tránsito internacional, con destino hacia otros países, será sancionado con\nprisión de 8 a 15 años. \nSi como último destino del tráfico, el agente intr oduce drogas en el territorio nacional para la venta o\nconsumo local, la sanción se aumentará de una tercera parte a la mitad. \nLa sanción será de 1 a 3 años de prisión y de 200 a 365 días-multa, cuando por su escasa cantidad y\ndemás circunstancias se determina, inequívocamente, que la tenencia es para su uso personal."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 256,
+    "texto": "Artículo 256. Para los efectos de la ley pena l, droga es toda sustancia que produzca dependencia\nfísica o psíquica, como los narcóticos, fármacos, est upefacientes y todos aquellos productos, precursores\ny sustancias químicas esenciales, que sirven para su elaboración, transformación o preparación, de\nconformidad con las disposiciones legales en mate ria de salud, convenios y acuerdos internacionales\nvigentes en la República de Panamá."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 257,
+    "texto": "Artículo 257. Será sancionado con 5 a 10 años de pris ión, el que incurra en alguna de las siguientes\nconductas: \n1. Siembre, cultive o guarde semillas de plantas con las cuales se puede elaborar cocaína y sus derivados,\nopio y sus derivados o marihuana. Igualmente, el que  siembre, cultive o guarde semillas de cualquier otra\nplanta que produzca dependencia física o psíquica. \n2. Extraiga, transforme o fabrique drogas ilícitas. \n3. Conserve o financie plantaciones destinadas a producir drogas ilícitas. \n4. Posea, fabrique o transporte precursores, sustan cias químicas, máquinas o elementos destinados a la\nproducción y transformación de drogas ilícitas. \nSe agravará la sanción prevista en este Artículo de una tercera parte a la mitad de la pena y se impondrá la\ninhabilitación para el ejercicio de la profesión por 8 años, si la conducta es realizada por un profesional de\nla medicina, farmacéutico, laboratorista, químico, agrónomo o profesionales afines."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 258,
+    "texto": "Artículo 258. El que con fines ilícitos compre, venda o traspase droga a cualquier título, será\nsancionado con 5 a 10 años de prisión. La sanción prev ista en este Artículo se duplicará en los siguientes\ncasos: \n1. Cuando se utilice a un menor de edad o persona con trastornos mentales. \n2. Cuando se realice en centro de educación, depor tivo, cultural, carcelario, o lugar donde se realicen\nespectáculos públicos o en sitios aledaños a los anteriores. \n3. Cuando lo realicen personas que se dese mpeñen como educador, docente o empleado de\nestablecimiento de educación pública o particular. \n4. Cuando se haga utilizando violencia o armas. \n5. Cuando se haga valiéndose de su condición de servidor público."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 259,
+    "texto": "Artículo 259. El médico o la persona que ostente una carrera sanitaria, que recete o suministre drogas\nsin una necesidad médica o terapéutica que lo justif ique, o en dosis mayores que las necesarias, será\nsancionado con prisión de 3 a 5 años e inhabilitación para el ejercicio profesional por el mismo término. \nEn la misma sanción incurrirá el que estando auto rizado para el expendio o entrega de drogas, las\nsuministre sin receta médica o en dosis que excedan la cantidad recetada."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 260,
+    "texto": "Artículo 260. El que con fines ilícitos posea droga, será sancionado con prisión de uno (1) a tres (3)\naños y de cincuenta (50) a doscientos cincuenta (250) días-multa.\n35\nCuando la posesión de droga resultare en tales cantid ades que, a juicio del Tribunal, se demuestre que lo\nque se pretende es suministrarla en venta o traspaso a cualquier título para consumo ilegal, la sanción será\nde 5 a 10 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 261,
+    "texto": "Artículo 261. Se aplicará la ley penal panameña en  los casos contemplados en los Artículos 255, 257,\n258, 259, 260, 262 y 263B de este Código, cometidos en  el extranjero, siempre que dentro del territorio\npanameño se hubiesen realizado los actos encamina dos a su consumación o cualquier transacción con\nbienes provenientes de delitos relacionados con drogas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 262,
+    "texto": "Artículo 262. El que destine un bien mueble o in mueble para que en él se elabore, almacene,\ntransforme, distribuya, venda, use o transporte droga, será sancionado con prisión de 5 a 10 años y de 250\na 365 días multa. \nIgual sanción se aplicará al propietario, arrendatario, administrador o poseedor a cualquier título de un\ninmueble o establecimiento que lo utilice para consum ir, elaborar, almacenar o distribuir drogas ilícitas, o\nlo proporcione a otra persona, a sabiendas que lo usa o lo usará para estas actividades. \nCuando se trate de locales comerciales o centros de diversión destinados al público, se procederá a su\ncierre definitivo cuando se haya demostrado que sus propietarios o administradores los hayan destinado a\nla realización de las conductas señaladas en el párrafo primero de este Artículo. \nIgual sanción se impondrá cuando quede establecido que di chos locales o centros de diversión hayan sido\nutilizados reiteradamente para la re alización de delitos contemplados en esta Ley, aun cuando los dueños\no administradores no hayan participado en la comisión (sic) estos delitos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 263,
+    "texto": "Artículo 263. Serán comisados los instrumentos, bi enes y valores empleados en la comisión de los\ndelitos a que se refiere la presente Ley, al igual que el producto de éstos. \nArtículo 263 A. Se sancionará con 5 a 8 años de prisión y de 250 a 365 días-multa a quien, sin haber\nparticipado en la ejecución de los delitos previstos en esta ley, oculte, encubra o impida la determinación\nreal de la naturaleza, origen, ubicación, destino o pr opiedad, de bienes o der echos relativos a éstos; o\nayude a asegurar su provecho, cuando provengan del tráfico de drogas ilícitas. \nArtículo 263 B. Será sancionado c on 5 a 10 años de prisión el que  sin haber participado en la\nejecución de los delitos previstos en esta Ley, realice,  a sabiendas, transacciones por si o por interpuesta\npersona, natural o jurídica, en establecimientos bancar ios, financieros, comerciales o de cualquier otra\nnaturaleza, con dinero, títulos, valores u otros recurs os financieros provenientes de las actividades ilícitas\nprevistas en los Artículos 255, 257, 258, 259, 260 y 262 de este Código. \nLo dispuesto en el párrafo anterior se aplicará aunque  el hecho que produzca el dinero, títulos, valores u\notros recursos financieros se hubiese realizado en el extranjero. \nArtículo 263 C. Será sancionado con 5 a 8 años de prisión, el que por sí o por interpuesta persona,\nnatural o jurídica, suministre a otra persona o est ablecimiento bancario, financiero, comercial o de\ncualquier otra naturaleza, información falsa para la apertura de cuentas o para la realización de\ntransacciones con dinero, en especie o títulos que lo representen, provenientes del tráfico de drogas\nilícitas. \nArtículo 263 CH. El que a sabiendas se valga de su función, empleo, oficio o profesión, para\nautorizar o permitir que se cometan los hechos descr itos en los Artículos 263 B y 263 C del Código Penal,\nserá sancionado como encubridor, con prisión de dos (2) a cinco (5) años. \nArtículo 263 D. Para los efectos de los artícul os 263-B y 263-C de este Código, se entenderá como\ntransacciones todas aquellas que se realizan en o d esde la República de Panamá, tales como, depósitos,\ncompra de cheques de gerencia, giros, certificados de  depósitos, cheques de viajero o cualquier otro título\n36\no valor, transferencias y órdenes de pago, compra  y venta de divisas, acciones, bonos y cualquier otro\ntítulo o valor por cuenta del cliente, siempre que el importe de tales transacciones se reciba en la\nRepública de Panamá en dinero, especie o título que lo represente. \nArtículo 263 E. Quien utilice dinero o cualquier r ecurso financiero, a sabiendas de que proviene del\ntráfico ilícito de drogas, para el financiamiento de campañas políticas o de cualquier otro tipo, será\nsancionado con prisión de 5 a 8 años e inhabilitación para el ejercici o de funciones públicas, por igual\ntérmino, después de cumplida la pena de prisión. \nArtículo 263 F. Si el que adquiere o posee drogas, depende física o psíquicamente de las mismas y la\ncantidad es escasa, de modo que acredite que son pa ra su uso personal, se le aplicarán únicamente\nmedidas de seguridad. \nSe entenderán por cantidad escasa destinada para su uso personal, la medida posológica limitada a una\ndosis, la cual será establecida por el médico forense del Ministerio Público. \nArtículo 263 G. El servidor público que tenga a su  cargo la investigación, juzgamiento o custodia de\nlas personas vinculadas con los delitos tipificados en esta Ley y que oculte, altere, sustraiga o destruya los\nrastros, pruebas o instrumentos del delito, o procur e la evasión de la persona capturada, detenida o\ncondenada, será sancionado de 3 a 6 a ños de prisión e inhabilitación pa ra ocupar cargos públicos hasta\npor 20 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 264,
+    "texto": "Artículo 264. Para la determinación de los límites máximos y mínimos del intervalo penal en relación\na los Artículos anteriores, el juzgador atenderá, ad emás de las reglas establecidas por el Libro Primero de\neste Código, la peligrosidad de las drogas, que se est ablecerá atendiendo a su potencialidad de daño físico\ny psíquico. \nSe agravarán las sanciones hasta una tercera part e cuando el suministro de drogas se haga a persona\nmenor de 18 años o en un establecimiento de enseñanza.\nTITULO VIII \nDELITOS CONTRA LA FE PUBLICA\nCAPITULO I \nFALSIFICACION DE DOCUMENTOS EN GENERAL"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 265,
+    "texto": "Artículo 265. El que falsifique en todo o en parte una escritura o documento público o auténtico de\nmodo que pueda resultar perjuicio, será sancionado con prisión de 2 a 5 años. \nSi el hecho fuere cometido por un servidor público en el  ejercicio de sus funciones, la sanción será de 3 a\n6 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 266,
+    "texto": "Artículo 266. Las sanciones previstas en el Artículo anterior son aplicables al que incluye o haga\nincluir en una escritura o documento público o autén tico, declaraciones falsas concernientes a un hecho\nque el documento deba aprobar, de modo que pueda resultar perjuicio."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 267,
+    "texto": "Artículo 267. El que falsifique en todo o en pa rte un documento privado, de modo que pueda resultar\nperjuicio, será sancionado con prisión de 6 meses a 2 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 268,
+    "texto": "Artículo 268. El que suprima, oculte o destruya, en todo o en parte, un documento original o una\ncopia que lo sustituya legalmente , si de ello puede resultar perjuicio, será sancionado con las penas\nseñaladas en los Artículos anteriores, según las distinciones que estos contienen.\n37"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 269,
+    "texto": "Artículo 269. Se aplicarán las sanciones señaladas en  el Artículo 265 al que ejecute cualquiera de los\nhechos descritos en dicho Artículo o en el \nArtículo 268, en un testamento cerrado, en un cheque  sea oficial o particular, en una letra de cambio,\nen acciones u otros documentos o títulos de créditos transmisibles por endoso o al portador."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 270,
+    "texto": "Artículo 270. El que en ejercicio de una prof esión relacionada con la salud extienda un certificado\nfalso, concerniente a la existencia o inexistenc ia, presente o pasada de alguna enfermedad o lesión,\ncuando de ello pueda resultar perjuicio, será sancionado con 40 a 150 días-multa. \nLa sanción será de 1 a 3 años de prisión si el fals o certificado tuviere por fin que una persona sana fuere\nrecluida en un hospital siquiátrico o en otro establecimiento de salud."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 271,
+    "texto": "Artículo 271. El que, a sabiendas, haga uso o derive provecho de cualquier modo que sea, de un\ndocumento falso o alterado aunque no haya cooperado en la falsifi cación o alteración, será sancionado\ncomo si fuese el autor. \nArtículo 271 -A. El que haga uso de una tarjeta de  crédito o débito no expedida en su favor, será\nsancionado con pena de 3 a 6 años de prisión. \nLa misma pena se aplicará a quien: \n1. Altere una tarjeta de crédito o débito expedida por quien tiene la facultad para concederla; \n2. Fabrique indebidamente una tarjeta de crédito o de débito, o \n3. Traspase, a cualquier título, una tarjeta de crédito o débito expedida en favor de otra persona."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 272,
+    "texto": "Artículo 272. El que para inducir a error a la  autoridad le presente un documento, atestación o\ncertificado verdaderos, aplicándoselos falsamente a sí  mismo o a un tercero, será sancionado con 10 a 50\ndías-multa.\nCAPITULO II \nFALSIFICACION DE MONEDA Y OTROS VALORES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 273,
+    "texto": "Artículo 273. El que falsifique o altere moneda nacional o extranjera de curso legal en la República, y\nel que la introduzca o ponga en circulación en el país, a sabiendas de su falsedad o alteración, será\nsancionado con prisión de 2 a 8 años. \nSe disminuirá de una cuarta parte a la mitad de la sanción cuando el valor legal o comercial de la moneda\nfalsa o alterada sea de poca monta."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 274,
+    "texto": "Artículo 274. El que reciba de buena fe moneda fa lsa o alterada y la hace circular con conocimiento\nde su falsedad o alteración, será sancionado con 30 a 150 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 275,
+    "texto": "Artículo 275. Queda exento de pena el culpable  de uno de los delitos previstos en los Artículos\nanteriores que impida voluntariamente la falsif icación, alteración o circulación de las monedas\nfalsificadas o alteradas, antes de que la autoridad tenga conocimiento de los hechos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 276,
+    "texto": "Artículo 276. El que fabrique o tenga en su pode r, instrumentos destinados exclusivamente a la\nfabricación o alteración de monedas, será sancionado con prisión de 6 meses a 2 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 277,
+    "texto": "Artículo 277. Se asimilan a monedas, para los efectos de la aplicación de la ley penal: \n1. El papel moneda y los billetes de banco de curso legal, nacionales o extranjeros; \n2. Los bonos del Tesoro Nacional o sus cupones, otro s títulos de la deuda pública, los billetes y chances\nde la Lotería Nacional de Beneficencia y otros papeles de crédito público, y\n38\n3. Los títulos y acciones al portador o sus cupones y los bonos y letras cuya emisión está autorizada por\ngobierno extranjero o por disposición que tenga en el mismo fuerza de ley.\nCAPITULO III\nFALSIFICACION DE SELLOS PUBLICOS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 278,
+    "texto": "Artículo 278. El que falsifique el sello de la  República, que confirme (sic) a normas legales o\nreglamentarias esté destinado a ser usado en documentos o actos de las autoridades estatales, o use el sello\nfalsificado por otro, será sancionado con prisión por 1 a 2 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 279,
+    "texto": "Artículo 279. El que falsifique el sello de cual quier dependencia del Orga no Ejecutivo, Legislativo y\nJudicial (sic), o el que usan los Municipios , entidades autónomas u ot ras oficinas públicas, será\nsancionado con prisión de 6 meses a 1 año. \nLa misma sanción se aplicará al que, a sabiendas, haga  uso de los sellos falsos aún cuando la falsificación\nsea obra de un tercero\nCAPITULO IV\nEXPEDICION DE CHEQUES SIN SUFICIENTES PROVISION DE FONDOS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 280,
+    "texto": "Artículo 280. El que gire un cheque sin tener en poder del girado fondos suficientes para cubrirlo,\nserá sancionado con 1 a 3 años de prisión y de 50 a 100 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 281,
+    "texto": "Artículo 281. Se eximirá de la sanción señalada en el  Artículo anterior al girador que cancele el valor\ndel cheque dentro del término de 48 horas, contado a partir del momento en que se le notifique la falta de\nfondos por la autoridad competente, mediante los trámites legales correspondientes. \nEn ningún caso se eximirá de la sanción de días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 282,
+    "texto": "Artículo 282. El girador que retire del poder del gi rado, dentro del plazo de un año, contado desde el\ndía de la expedición del cheque, todo o parte de su cobertura; o el girador, que sin justa causa, revoque la\norden de pago consignada en un ch eque ya entregado, será sancionado c on prisión de 1 a 3 años y de 100\na 200 dias-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 283,
+    "texto": "Artículo 283. El que por imprudencia o negligenci a gire un cheque sin tener en poder del girado\nfondos suficientes para cubrirlo, será sancionado con 50 a 75 días-multa. Si el girador cancela el valor del\ncheque en el plazo establecido en el Artículo 281, la sanción será de 20 a 40 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 284,
+    "texto": "Artículo 284. Cuando el cheque sea girado por cuenta de una persona jurídica o de un establecimiento\ncomercial, las sanciones se aplicarán a la persona o personas \nnaturales que hubiesen girado dicho cheque, retirado toda  o parte de su cobertura o revocado la orden de\npago, según los casos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 285,
+    "texto": "Artículo 285. Copia de la sentencia condenatoria dictada con motivo de la aplicación de los Artículos\nanteriores, será remitida a la Asociación Bancaria de Panamá para la divulgación entre sus miembros.\nCAPITULO V\nEJERCICIO ILEGAL DE UNA PROFESION\n39"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 286,
+    "texto": "Artículo 286. El que ejerza una profesión para la cual se requiere una habilitación especial, sin haber\nobtenido la autorización correspondiente, será sancionado con prisión de 6 meses a 2 años o de 100 a 150\ndías-multa.\nTITULO IX \nDE LOS DELITOS CONTRA LA PERSONALIDAD JURIDICA DEL ESTADO\nCAPITULO I \nDELITOS CONTRA LA PERSONALIDAD INTERNACIONAL DEL ESTADO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 287,
+    "texto": "Artículo 287. El que ejecute un acto para some ter la República en todo o en parte a un Estado\nextranjero, aminorar su independencia o quebrantar  su unidad, será sancionado con prisión de 15 a 20\naños."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 288,
+    "texto": "Artículo 288. El panameño que tome armas cont ra la República de Panamá o se uniere a sus\nenemigos prestándoles ayuda o socorro, será sancionado con prisión de 5 a 10 años. \nNo incurrirá en sanción quien, enc ontrándose durante las hostilidades en el territorio del Estado enemigo,\ncometió el hecho por haber sido obligado por aquel Estado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 289,
+    "texto": "Artículo 289. Las sanciones estableci das en los Artículos anteriores se aplicarán, disminuidas de una\ntercera parte a la mitad, cuando los hechos previsto s en ellos fueren cometidos contra un Estado aliado de\nla República de Panamá en la guerra contra un enemigo común."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 290,
+    "texto": "Artículo 290. El que mantenga inteligencias con un gobierno extranjero o con sus agentes para\nproducir hostilidades o guerra contra Panamá, o favor ecer las operaciones militares de otra Nación contra\nesta, o ejecute cualquier otro acto que tienda a esos fi nes, será sancionado con prisión de 5 a 10 años y si\nel acto o los actos punibles hubiesen tenido el resu ltado que se proponía su autor, la sanción será se\nprisión de 10 a 20 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 291,
+    "texto": "Artículo 291. El que viole la tregua o el armis ticio acordados entre el Estado panameño y un Estado\nenemigo, o entre sus fuerzas beligerantes, será sancionado con prisión de 1 a 6 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 292,
+    "texto": "Artículo 292. El que revele secretos políticos, diplom áticos o militares referentes a la seguridad del\nEstado, será sancionado con prisión de 1 a 3 años y de 50 a 100 días-multa. \nLa sanción será de prisión por 2 a 4 años y de 100 a 150 días-multa silos secretos se revelan a un Estado\nextranjero o a sus agentes. \nSi el Estado al que se revelan los secretos, directamente o por medio de sus agentes, estuviere en guerra\ncon Panamá, o si la revelación diere lugar a que se turben las relaciones amistosas de ésta con otro\nEstado, la pena será de prisión de 5 a 8 años y de 150 a 200 días-multa. \nLa sanción se agravará hasta en una tercera parte, si el autor poseía o conocía los secretos en virtud de su\ncarácter de servidor público o si hubiere empleado viol encia, fraude u otro engaño para obtener los datos\no conocer los secretos. \nEl que recepte los datos o secretos de que trata est e Artículo, incurrirá en las mismas sanciones aquí\nseñaladas, según el caso."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 293,
+    "texto": "Artículo 293. El que por culpa revele los secretos  mencionados en el Artículo precedente, de los que\nse hallare en posesión en virtud de su cargo, oficio o de un contrato oficial, será sancionado con prisión de\n6 meses a un año y de 10 a 100 días-multa.\n40"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 294,
+    "texto": "Artículo 294. El que indebidamente procure u obtenga informaciones, secretos políticos, diplomáticos\no militares concernientes a la seguridad, a la defe nsa o a las relaciones exteriores de Panamá, será\nsancionado con prisión de 1 a 6 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 295,
+    "texto": "Artículo 295. El que sin facultad legal para  ello, levante planos o reproduzca imágenes de\nfortificaciones, buques, establecimientos, vías u obras militares, o se introduzca con tal fin, clandestina o\nfraudulentamente, en los lugares cuya entrada púb lica estuviere prohibida por las autoridades militares,\nserá sancionado con prisión de 6 meses a 3 años y de 100 a 200 días-multa. \nEl sólo hecho de entrar clandestinamente a esos lugares, será sancionado con 50 a 100 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 296,
+    "texto": "Artículo 296. El encargado por el gobierno de la República para tratar asuntos de Panamá con un\ngobierno extranjero o con empresas extranjeras, que tr aicione su mandato de manera perjudicial para los\nintereses públicos, será sancionado con prisión de 2 a 6 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 297,
+    "texto": "Artículo 297. El que en tiempo de guerra suminist re al enemigo provisiones u otras cosas que puedan\nemplearse en perjuicio de Panamá, será sancionado con prisión de 1 a 4 años y de 50 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 298,
+    "texto": "Artículo 298. El que en tiempo de guerra in cumpla, total o parcialmente, las obligaciones\ncontractuales adquiridas con el Estado, relacionad as con la defensa o la seguridad nacional, será\nsancionado con prisión de 2 a 5 años y de 100 a 200 días-multa. \nSi el incumplimiento fuere culposo, la sanción será de 6 meses a 2 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 299,
+    "texto": "Artículo 299. El que en tiempo de guerra dañe, d estruya o haga inservibles, total o parcialmente,\ninstalaciones, vías, obras u objetos necesarios para la defensa nacional con el fin de perjudicar la\nseguridad del Estado, será sancionado con prisión de 4 a 8 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 300,
+    "texto": "Artículo 300. El que por menosprecio, destruya o ultraje públicamente la bandera, el escudo o el\nhimno de la República de Panamá, será sancionado con 6 meses a 1 año de prisión.\nCAPITULO II\nDELITOS CONTRA LA PERSONALIDAD INTERNA DEL ESTADO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 301,
+    "texto": "Artículo 301. Los que promuevan o dirijan un alzamiento en armas para derrocar al gobierno nacional\nlegalmente constituido, o para cambiar violen tamente la Constitución Política, será sancionado con\nprisión de 15 a 20 años e inhabilitación para el ejercicio de funciones públicas por igual tiempo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 302,
+    "texto": "Artículo 302. Las sanciones del Artículo anterior se aplicarán a los que impidan la formación,\nfuncionamiento o renovación de los Organos del Esta do en los términos y formas legales o no cumplan\ncon el deber de poner la fuerza pública a disposición del gobierno constitucional."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 303,
+    "texto": "Artículo 303. Los que, sin pretender el cambio vi olento del régimen constitucional, se alcen en armas\npara impedir el cumplimiento de alguna norma legal o sentencia o impidan el funcionamiento del régimen\nconstitucional vigente, serán sancionados con prisión de 1 a 4 años y de 50 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 304,
+    "texto": "Artículo 304. Los que reunidos en forma tumultuaria intimiden o amenacen a alguna persona,\ncorporación o autoridad o coarten el ejercicio de un derecho o perturben la p acífica convivencia de los\nasociados, serán sancionados con prisión de 6 meses a 3 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 305,
+    "texto": "Artículo 305. El que para cometer rebelión, sed ición o motín, persuada autoridades o servidores\npúblicos o se valga de fuerzas armadas o usurpe su s atribuciones, tome el mando de tropas, plazas,\n41\nfortaleza, cuarteles, puestos militares, vías, poblaci ones, transportes de cualquier clase o se apodere de\nestaciones de televisión, radiales, telegráficas o cable gráficas, se le aplicarán las sanciones establecidas\npara el delito respectivo, aumentadas en una tercera parte."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 306,
+    "texto": "Artículo 306. El que en una tribuna pública, o por  la prensa, radio, televisión o por cualquier otro\nmedio de divulgación, incite a la rebelión, sedici ón o motín, será sancionado con prisión de 6 meses a 2\naños y de 20 a 100 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 307,
+    "texto": "Artículo 307. El que ofenda o ultraje públicamente al Presidente de la República o quien lo sustituya\nen sus funciones, será sancionado con prisión de 6 a 10 meses y de 20 a 50 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 308,
+    "texto": "Artículo 308. El que vilipendie públicamente a uno de los Organos del Estado, será sancionado con\nprisión de 6 meses a 1 año y de 50 a 100 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 309,
+    "texto": "Artículo 309. El procedimiento por los hechos punibles de que tratan los dos Artículos precedentes, no\nse iniciará sino mediante denuncia de la persona u Organo ofendido. \nEl perdón por parte de la persona u Organo agraviados, extinguirá la acción penal. \nCAPITULO III \nDELITOS CONTRA LA COMUNIDAD INTERNACIONAL"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 310,
+    "texto": "Artículo 310. El que dirija o forme parte de una organización de carácter internacional dedicada a\ntraficar con personas o drogas, será sancionado con prisión de 10 a 15 años. \nArtículo 310-A. El que intervenga de cualquier forma en el tráfico de personas, con el consentimiento\nde éstas, evitando o evadiendo fraudulentamente, de  alguna manera, los controles de migración\nestablecidos en el territorio continental de la República, será sancionado con pena de 5 a 10 años de\nprisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 311,
+    "texto": "Artículo 311. El que tome parte en la destrucción,  total o parcial, de un  determinado grupo de seres\nhumanos, por razón de su nacionalidad, raza o creen cia religiosa o política, será sancionado con prisión\nde 15 a 20 años. \nEn la misma sanción incurrirá quien, para destruir total o parcialmente un determinado grupo de personas\ny por los motivos expuestos en el inciso anterior, realice alguno de los hechos siguientes: \n1. Causar a los miembros de esos grupos daños corporales o psíquicos; \n2. Colocar a dichos grupos en condiciones precarias; \n3. Impedir los nacimientos, y, \n4. Trasladar por la fuerza o intimidación, niños de uno de esos grupos a otros distintos."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 312,
+    "texto": "Artículo 312. El que reclute gente, acopie armas o realice otros actos hostiles no aprobados por el\ngobierno y emprendidos dentro del territorio de la Re pública o en el extranjero contra otro Estado, que\nexponga a Panamá a los peligros de una guerra o a la  ruptura de las relaciones internacionales, será\nsancionado con prisión de 3 a 6 años. \nSi por consecuencia de los actos mencionados se decl ara la guerra a la República, la sanción será de 10 a\n15 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 313,
+    "texto": "Artículo 313. El que impida o perturbe el cumplimi ento de los convenios o tratados celebrados por la\nRepública y ratificados por ella, de modo que comprometa la responsabilidad de Panamá, será sancionado\ncon prisión de 1 a 3 años.\n42"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 314,
+    "texto": "Artículo 314. El que viole la inmunidad del jefe o del representante de un Es tado extranjero u ofenda\nen su dignidad o decoro a alguna de dichas personas, mientras se encuentren en territorio panameño, será\nsancionado con 6 meses a 3 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 315,
+    "texto": "Artículo 315. El que cometa un hecho punible en el  territorio de la República contra el jefe de un\nEstado extranjero, se le impondrá la sanción aplicable  al hecho cometido aumentada de una sexta a una\ntercera parte. \nSi se trata de un delito contra la vida, la incolumnidad  o la libertad de dicho fu ncionario, la agravación de\nla sanción, de conformidad con la disposición anterior, no será menor de 3 años. \nEn los demás casos la sanción privativa de la liberta d no será menor de 6 ni la pecuniaria menor de 50\ndias-multa. \nSi el hecho punible fuere de aquellos que no se puede n perseguir de oficio, el proceso penal no se podrá\niniciar sino a solicitud del gobierno extranjero."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 316,
+    "texto": "Artículo 316. Los delitos que se cometen contra los representantes de Estados extranjeros acreditados\nante el gobierno de Panamá, por razón del ejercici o de sus funciones, se sancionarán con las penas\nseñaladas para los mismos delitos cuando se cometan contra servidores públicos panameños."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 317,
+    "texto": "Artículo 317. El que por menosprecio destruya o ultraje públicamente la bandera, el escudo o el\nhimno de un Estado extranjero será sancionado con prisión de 6 meses a 1 año.\nCAPITULO IV\nDISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 318,
+    "texto": "Artículo 318. Quedarán exentos de sanción los que an tes de toda intimidación de la autoridad o de la\nfuerza pública o inmediatamente después disolvieren la fuerza o impidieren que esta cometa el hecho\npunible para el cual había sido congregada. \nTambién quedarán exentos de sanción los que, sin ha ber intervenido en la formación de la fuerza,\nconsientan antes de toda intimación, no inmediatamente  después, en retirarse sin resistencia y abandonen\nlas armas."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 319,
+    "texto": "Artículo 319. Las sanciones estable cidas en los Artículos 301, 303, 304 y 305 se aumentarán en un\ntercio para los jefes y agentes de la fuerza pública que intervengan en los hechos con las armas o los\nmateriales que les han sido confiados o entregados en razón del cargo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 320,
+    "texto": "Artículo 320. El que fuera de los casos previstos en los Artículos 39 y 40 proporcione voluntariamente\namparo o ayuda, facilite recursos a las fuerzas me ncionadas en el Artículo 305 o favorezca de cualquier\nmanera sus operaciones, será sancionado con prisión de 6 meses a 3 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 321,
+    "texto": "Artículo 321. Cuando varias personas se hubiesen concertado para cometer alguno de los hechos\npunibles previstos en los Artículos 288, 301, o en el inciso segundo del 312 o el primero del 315, serán\nsancionados de la forma siguiente: \n1. En el caso previsto en el Artículo 288, con prisión por 3 a 5 años; \n2. En los casos de los Artículos 301 y 312, con prisión por 1 a 3 años, y \n3. En el caso del inciso primero del Artículo 315, con prisión de 2 a 4 años. \nQuedarán exentos de sanción los partícipes que hubiesen  desistido voluntariamente de la conspiración\nantes de haber realizado actos de preparación o de ejecución del delito y antes de que se hubiera iniciado\nel procedimiento penal correspondiente, así Como lo s que espontáneamente impidieren la realización del\nplan.\n43\nTITULO X\nDELITOS CONTRA LA ADMINISTRACION PUBLICA\nCAPITULO I\nDE LAS DIFERENTES FORMAS DE PECULADO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 322,
+    "texto": "Artículo 322. El servidor público que se apropie de  dineros, valores, bienes u otros objetos cuya\nadministración, percepción o custodia le hubiesen si do confiados por razón de su cargo, será sancionado\ncon prisión de 2 a 10 años y hasta 250 días-multa. \nSi antes de dictarse la sentencia de primera instan cia en su contra, el responsable del hecho punible\nreintegrase los dineros, valores, bienes u otros objetos apropiados, la sanción aplicable se le reducirá hasta\nen dos terceras partes."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 323,
+    "texto": "Artículo 323. El servidor público que en ejercicio de su cargo, aprovechándose del error ajeno, se\napropie, reciba o retenga indebidamente, en benefi cio propio o ajeno, dineros, valores, bienes u otros\nobjetos, será sancionado con prisión de 1 a 3 años y de 100 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 324,
+    "texto": "Artículo 324. El servidor público que por culpa diere ocasión a que se extravíen o pierdan los dineros,\nvalores, bienes u otros objetos de que trata el artícul o 322, o a que otra persona los sustraiga o malverse,\nserá sancionado con prisión de 6 meses al año y de 50 a 150 días-multa. \nEn estos casos, si el servidor público reintegra parcia lmente lo extraviado, perdido o sustraído, la sanción\nse reducirá de un tercio hasta la mitad y si los reinte gra totalmente, se le sancionará sólo con días-multa,\nrebajados hasta dos terceras partes."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 325,
+    "texto": "Artículo 325. El servidor público que use en benefi cio propio o ajeno los dineros, valores, bienes u\notros objetos que están a su cargo por razón de sus funciones, será sancionado con 50 a 100 días-multa\nsiempre que reintegre aquellos antes de que se hubiere iniciado el procedimiento criminal."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 326,
+    "texto": "Artículo 326. El servidor público que dé a los ca udales o efectos que administre una aplicación\npública diferente de aquella a que estuvieren destinados, será sancionado con pena de 30 a 90 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 327,
+    "texto": "Artículo 327. Las disposiciones de este capítulo  son extensivas a los empleados de empresas de\nservicios públicos en las que tenga participación económica mayoritaria el Estado, y a los que, por\ncualquier concepto, se encuentren encargados de f ondos, rentas o efectos nacionales o municipales, o\npertenecientes a un establecimiento de instrucción pública o de beneficencia."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 328,
+    "texto": "Artículo 328. Además de las sanciones señaladas pa ra cada uno de los hechos punibles previstos en\neste Capítulo, los tribunales impondrán la sanción de  inhabilitación temporal o permanente para el\nejercicio de funciones públicas según la gravedad del delito cometido e igualmente deberán considerar la\ncuantía para los efectos de la aplicación del intervalo penal señalado en cada norma.\nCAPITULO II \nCONCUSION Y EXACCION"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 329,
+    "texto": "Artículo 329. El servidor público que, con abuso de  su calidad o de sus funciones, constriña o\ninduzca a alguien a dar o prometer indebidamente, para sí mismo o para un tercero, dinero u otra utilidad,\nserá sancionado con prisión de 1 a 6 años y de 50 a 100 días-multa.\n44"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 330,
+    "texto": "Artículo 330. El servidor público que , con abuso de su calidad o de sus funciones exija y cobre algún\nimpuesto, tasa, gravamen, contribución, derecho o ar bitrio inexistente o que aún siendo legales emplee\npara su cobranza medios no autorizados por la Ley, será sancionado con 50 a 100 días-multa.\nCAPITULO III \nCORRUPCION DE SERVIDORES PUBLICOS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 331,
+    "texto": "Artículo 331. El servidor público que por si o por  interpuesta persona, reciba por un acto de sus\nfunciones en dinero u otro beneficio, alguna retri bución que no se le deba o cuya promesa acepte, será\nsancionado con prisión por 6 meses a 2 años y de 50 a 100 dias-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 332,
+    "texto": "Artículo 332. El servidor público que para retardar u omitir un acto debido, propio de sus funciones, o\npara ejecutar un acto contrario a sus deberes, reciba o se haga prometer dinero u otro beneficio para él o\npara un tercero, será sancionado con prisión de 2 a 4 años y de 100 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 333,
+    "texto": "Artículo 333. Si el autor del hecho punible descrito  en el Artículo anterior fuese Juez, Magistrado o\nAgente del Ministerio Público y el dinero, beneficio o promesa tuviere por objeto favorecer o perjudicar a\nuna parte en el proceso, aunque sea de carácter administ rativo, la sanción se agravará de una cuarta parte\na la mitad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 334,
+    "texto": "Artículo 334. Las sanciones estableci das en los tres Artículos preceden tes son aplicables al que dé o\nprometa al servidor público la suma de dinero o beneficio indebido."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 335,
+    "texto": "Artículo 335. Será sancionado con prisión de 6 a 18 meses y de 25 a 75 días-multa al servidor público\nque sin incurrir en un hecho punible más severamente penado: \n1. Acepte una dádiva cualquiera o la  promesa de una dádiva para hacer valer la influencia derivada de su\ncargo ante otro servidor a fin de que este haga o deje de hacer algo relativo a sus funciones; \n2. Utilice con fines de lucro para sí o para un ter cero, informaciones o datos de carácter reservado de los\nque haya tenido conocimiento por razón de su cargo; \n3. Admita dádivas que le fueren presentadas u ofrecidas en consideración a su cargo, mientras\npermanezca en el ejercicio del mismo, y \n4. No justifique, al ser debidamente requerido, la procedencia de un incremento patrimonial suyo o de\npersona interpuesta para disimularlo, posterior a la asunción de un cargo público. \nEn el caso del ordinal cuarto de este Artículo, la pe rsona interpuesta para disimular el enriquecimiento,\nserá sancionada con 25 a 75 días-multa.\nCAPITULO IV\nABUSO DE AUTORIDAD E INFRACCION DE LOS DEBERES DE LOS SERVIDORES\nPUBLICOS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 336,
+    "texto": "Artículo 336. El servidor público que , con abuso de su cargo ordene o cometa en perjuicio de alguna\npersona cualquier hecho arbitrario no clasificado especialmente en la ley penal, será sancionado con\nprisión de 6 a 18 meses o de 25 a 75 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 337,
+    "texto": "Artículo 337. Será sancionado con prisión de 6 a 18 meses o 25 a 75 días-multa el servidor público\nque comunique o publique los documentos o notici as que posea por razón de su empleo y que debía\nmantener en secreto.\n45"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 338,
+    "texto": "Artículo 338. El servidor público que indebidamente rehuse, omita o retarde algún acto inherente a\nsus funciones, será sancionado con 25 a 100 días-multa, siempre que tal hecho no tenga señalada otra\npena por disposición especial."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 339,
+    "texto": "Artículo 339. El agente de la fuerza pública que rehuse, omita o retarde la prestación de un auxilio\nlegal requerido por autoridad competente, será sanci onado con prisión de 6 meses a 1 año o de 50a 100\ndías-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 340,
+    "texto": "Artículo 340. El servidor público que requiera el apoyo de la fuerza pública para evitar la ejecución\nde disposiciones u órdenes legales de la autorida d o las sentencias o mandatos judiciales, será sancionado\ncon prisión de 1 a 2 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 341,
+    "texto": "Artículo 341. El servidor público que abandone  su cargo sin haber cesado legalmente en el\ndesempeño de este, será sancionado con 25 a 75 dí as-multa e inhabilitación para ejercer cargos públicos\npor 1 a 2 años. \nSe entiende que hay abandono de empleo siempre que el servidor deje su puesto por más de 5 días hábiles\nsin justa causa o sin que haya sido reemplazado en debida forma."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 342,
+    "texto": "Artículo 342. El servidor público que, en el ejerci cio de sus funciones, tenga conocimiento de la\nejecución de un hecho punible que dé lugar a procedimie nto de oficio y omita dar cuenta de ello a la\nautoridad competente, será sancionado con 25 a 100 días-multa.\nCAPITULO V\nUSURPACION DE FUNCIONES PUBLICAS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 343,
+    "texto": "Artículo 343. El que ejerza funciones públicas sin autorización legal o el servidor público que\ncontinúe ejerciéndolas después de haber cesado lega lmente en el desempeño de un cargo o después de\nhaber recibido del órgano competente comunicación oficial que ordenó la cesantía o suspensión, será\nsancionado con prisión de 6 meses a 1 año.\nCAPITULO VI\nDELITOS CONTRA LA AUTORIDAD PUBLICA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 344,
+    "texto": "Artículo 344. El que con violencia o amenaza s impida, obstaculice o le imponga a un servidor\npúblico o a la persona que le presta asistencia a reque rimiento de este, la ejecución u omisión de un acto\npropio del legitimo ejercicio de sus funciones, será sancionado con prisión de 6 meses a 1 año. \nLa sanción se agravará de una tercera parte a la mitad: \n1. Si el hecho se comete con armas, y \n2. Si se hubiese perpetrado por varias personas concertadas para resistir a la autoridad. \nSi la resistencia tiene por objeto impedir la prisi ón del autor de ella o de un pariente cercano, las\nsanciones se reducirán en una tercera parte."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 345,
+    "texto": "Artículo 345. No se aplicarán l as sanciones señaladas en los Artículos que preceden, si el servidor\npúblico excede, por acto arbitrario, los límites de sus funciones."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 346,
+    "texto": "Artículo 346. El que fuera de los casos previstos en  el Artículo 307 ofenda de palabra o por escrito o\nde cualquier manera falte el respeto a un servidor público a causa o por razón del ejercicio de sus\nfunciones, será sancionado con 10 a 30 días-multa.\n46\nCAPITULO VII \nVIOLACION DE SELLOS Y SUSTRACCIONES EN OFICINAS PUBLICAS"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 347,
+    "texto": "Artículo 347. El que viole los sellos destinados conf orme a la ley u orden de la autoridad a conservar\no asegurar la identidad de una cosa, será sancionado con prisión de 6 a 18 meses. \nSi el autor fuere el servidor público que ordenó o ejecutó la colocación de los sellos, o aquel a quien\nincumbe custodiarlos o conservarlos, la sanción se aumentará de una cuarta parte a la mitad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 348,
+    "texto": "Artículo 348. El que sustraiga, suprima, destru ya o altere algún instrumento, acta o documento que\npertenezcan o reposen bajo la custodia de una oficin a pública, será sancionado con prisión de 6 meses a 2\naños. \nSi el autor fuere el mismo servidor público que por  razón de sus funciones tenía la custodia de los\ninstrumento (sic), actas o documentos, la sanción será por 1 a 4 años de prisión. \nSi el perjuicio causado ha sido leve o si el autor ha restituido íntegro el instrumento, acta o documento sin\nhaber derivado provecho de ellos y antes de que se dicte la providencia cabeza del proceso, la sanción\nserá reducida hasta las tres cuartas partes. \nSí la entrega se verifica en las condiciones expresad as en el párrafo anterior, después de iniciado el\nsumario y antes de que se haya dictado el auto de enjuiciamiento, la sanción se reducirá hasta la mitad.\nCAPITULO VIII\nFRAUDES EN LAS SUBASTAS O LICITACIONES Y FALTA DE SUMINISTRO A LA\nADMINISTRACION PUBLICA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 349,
+    "texto": "Artículo 349. El que con violencia, amenazas, donativos, promesas, colusiones, u otros medios\nfraudulentos impida o perturbe la c oncurrencia a las subastas, licitaciones o concursos de precios de la\nadministración pública, o aleje de ellas a los postores,  será sancionado con prisión de 6 meses a 2 años y\nde 50 a 150 días-multa. \nSi el autor es persona que según la ley o por mandato  de la autoridad debe intervenir en los actos\nmencionados, la sanción será de 1 a 3 años de prisión y de 100 a 250 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 350,
+    "texto": "Artículo 350. El que para sí mismo o para un ter cero, solicite dádiva o promesa para no tomar parte\nen las subastas, licitaciones o concurso de precios, mencionados en el Artículo anterior, y que mediante\ndinero u otro beneficio dado o prometido a él o a ot ro, se abstenga de tomar parte en dichos actos o se\nretire de ellos, será sancionado con 50 a 150 días-multa.\nTITULO XI\nDELITOS CONTRA LA ADMINISTRACION DE JUSTICIA\nCAPITULO I\nSIMULACION DE HECHOS PUNIBLES Y CALUMNIA EN ACTUACIONES JUDICIALES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 351,
+    "texto": "Artículo 351. El que denuncie ante la autorida d una infracción punible, a sabiendas de que no se ha\ncometido, o simule pruebas o indicios de ella que puedan servir de motivo a una instrucción judicial, será\nsancionado con prisión de 6 meses a 1 año o de 25 a 150 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 352,
+    "texto": "Artículo 352. El que declare falsamente ante la autoridad que es autor o partícipe de un delito en el\nque no ha intervenido, será sancionado con prisión de 6 meses a 1 año.\n47\nSi el agente se retracta se le aplicará el mínimo de la  sanción señalada en el inciso anterior, y si el fin fue\nel de evitar la persecución y condena de un pariente cercano, quedará exento de pena."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 353,
+    "texto": "Artículo 353. El que inculpe a otra persona ante  la autoridad de una infracción punible, a sabiendas\nde que es inocente, o simule pruebas o indicios c ontra ese mismo inculpado, será sancionado con prisión\nde 1 a 3 años. Si la falsa inculpación diere por resu ltado una condena o pena privativa de libertad por 12 a\n20 años, la sanción será de 2 a 8 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 354,
+    "texto": "Artículo 354. Las sanciones señaladas en el artícul o precedente se reducirán en dos terceras partes si\nel autor se retracta de sus inculpaciones o revele la  simulación antes de que se califique el sumario.\nDichas sanciones sólo se reducirán de la tercera pa rte a la mitad cuando la retractación o revelación se\nhicieren antes del veredicto del jurado, si se trata de delitos sometidos a él, o antes de la sentencia, en los\ndemás casos.\nCAPITULO II\nFALSO TESTIMONIO\nARTIUCLO 355. El testigo, perito, intérprete o tra ductor, que ante la autoridad competente afirme una\nfalsedad o niegue o calle la verdad, en todo o en  parte de su deposición, dictamen, interpretación o\ntraducción, será sancionado con prisión de 8 a 20 meses. \nSi el hecho punible fuere cometido en una causa criminal  en perjuicio del inculpado, la prisión será de 1 a\n3 años. \nSi el acto ha sido causa de una sentencia condenatoria a prisión, la sanción será de 2 a 5 años de prisión. \nLas sanciones precedentes se aumentarán en un tercio si el hecho punible se comete mediante soborno."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 356,
+    "texto": "Artículo 356. Estará exento de toda sanción por el delito previsto en el Artículo precedente: \n1. El testigo que si hubiere dicho la verdad habría expuesto a un pariente cercano o a su propia persona a \nun peligro grave para su libertad o su honor, y \n2. El que habiendo declarado ante la autoridad su nombre y estado no debió haber sido interrogado como \ntestigo o tenía derecho a que se le hiciera saber que podía abstenerse de declarar. \nSi el falso testimonio expone a un tercero a un pro ceso o condenación, la sanción sólo le será reducida de\nuna tercera parte a la mitad."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 357,
+    "texto": "Artículo 357. Se eximirá de toda sanción al res ponsable del hecho punible de que trata el Artículo\n355, cuando retracte su declaración antes de que se cierre la instrucción sumaria por auto de proceder o de\nsobreseimiento. \nSi la retractación se hace en época posterior a la di cha, o se refiere a una declaración falsa en materia\ncivil, la pena se reducirá de la tercera parte a la m itad, siempre que se haga antes del veredicto del jurado,\nen los asuntos en que este interviene, o antes de la sentencia, en los demás casos. \nSi el solo falso testimonio ha sido causa de la dete nción de una persona, o de algún otro grave perjuicio\npara la misma, únicamente se rebajará un tercio de la sanción en el caso del primer párrafo de este \nArtículo y un sexto en el caso del segundo párrafo."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 358,
+    "texto": "Artículo 358. El que ofrezca o prometa dinero o cu alquier otro beneficio a un testigo, perito,\nintérprete o traductor, con el fin de inducirlo a da r una deposición, dictamen, interpretación o traducción\nfalsos, aún cuando la oferta o promesa no sea aceptada , o siéndolo, la falsedad no fuere cometida, será\nsancionado con prisión de 6 a 15 meses."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 359,
+    "texto": "Artículo 359. La sanción señalada en el Artículo precedente se reducirá de la mitad a las dos terceras\npartes si el autor del delito allí previsto es un sind icado por el hecho punible que se investiga, o su\npariente cercano, siempre que no haya expuesto a otra persona a un proceso penal.\n48"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 360,
+    "texto": "Artículo 360. El que en un proceso criminal o civ il o de cualquier otra naturaleza ofrezca un testigo\nfalso, será sancionado con prisión de 6 meses a 2 años. \nCAPITULO III\nPREVARICAClON\nARTIUCLO 361. El apoderado que por colusión con la parte contraria o por cualquier otro medio\nfraudulento perjudique la causa que se le haya confia do o que en una misma causa, sirva al propio tiempo\na partes con intereses opuestos, será sancionado con pr isión de 6 meses a 1 año, inhabilitación para el\nejercicio de su profesión hasta por tiempo igual al de  la condena después de cumplida ésta y de 10 a 100\ndías-multa. \nAdemás se le impondrá inhabilitación para el ejerci cio de su profesión hasta por 1 año, término que\nempezará a correr después de cumplida la sanción principal. \nCuando se trate de una causa penal y el sindicado esté enjuiciado por un hecho punible que tenga señalada\nsanción privativa de libertad, la pena de prisión que se impondrá al prevaricador será de 1 a 2 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 362,
+    "texto": "Artículo 362. Los apoderados que se hicieren entreg ar de su cliente dinero u otras utilidades con el\npretexto de procurar el favor de testigos, peritos,  servidores del Organo Judicial o Ministerio Público que\nhubieren de intervenir en la causa, serán sancionados con prisión de 6 meses a 2 años e inhabilitación para\nel ejercicio de su profesión hasta por tiempo igual al de la condena, después de cumplida esta.\nCAPITULO IV\nENCUBRIMIENTO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 363,
+    "texto": "Artículo 363. El que después de cometido un delito, sin haber participado en él, ayude a asegurar su\nprovecho; a eludir las investigaciones de la autorida d, a sustraerse a la acción de ésta o al cumplimiento\nde la condena, será sancionado con prisión por 1 o 2 años. \nNo se reputará culpable a quien encubra a su pariente cercano.\nCAPITULO V\nAPROVECHAMIENTO DE COSAS PROVENIENTES DEL DELITO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 364,
+    "texto": "Artículo 364. El que fuera de los casos previstos en el Artículo anterior, y sin haber tomado parte en el\ndelito, oculte, adquiera o reciba dinero, valores u objetos que sabía o presumía pertenecientes de un hecho\npunible o de cualquier otro modo intervenga en su adquisición, receptación u ocultación, será sancionado\ncon prisión de 1 a 2 años y de 25 a 100 días-multa. \nSi el autor realiza profesionalmente los hechos que se describen en el párrafo anterior, la sanción será de 2\na 3 años de prisión y de 100 a 150 días-multa.\nCAPITULO VI\nEVASION Y QUEBRANTAMIENTO DE SANCIONES"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 365,
+    "texto": "Artículo 365. El detenido o sancionado por sentencia  judicial con pena privativa de libertad que se\nevada mediante intimidación o violencia en las personas o fuerza en las cosas, será sancionado con\nprisión de 2 a 5 años.\n49"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 366,
+    "texto": "Artículo 366. Al que procure o facilite sin vi olencia la evasión de un detenido o sancionado\njudicialmente, se le impondrá prisión de 6 a 15 meses, pero si utiliza violencia, la sanción será de 15 a 30\nmeses de prisión cuando la evasión se realiza y de 6 meses a 2 años si ésta no se lleva a cabo. \nSi el autor fuese pariente cercano del detenido o sancionado, se disminuirá la pena en una tercera parte."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 367,
+    "texto": "Artículo 367. El servidor público encargado de la c onducción o custodia de un detenido o sancionado\njudicialmente que procure o facilite su evasión, será sancionado con prisión de 2 a 5 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 368,
+    "texto": "Artículo 368. Si la evasión se produce por culpa de un servidor público, encargado de la conducción\no custodia del detenido o sancionado judicialmente, se le impondrá de 2 a 5 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 369,
+    "texto": "Artículo 369. El que quebrante una inhabilitaci ón o interdicción que le ha sido impuesta\njudicialmente, será sancionado con prisión de 6 meses a 2 años.\nCAPITULO VII\nPROHIBICION DE HACERSE JUSTICIA POR SI MISMO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 370,
+    "texto": "Artículo 370. El que con el solo fin de ejercer un pretendido derecho se haga justicia por sí mismo,\nmediante fuerza sobre las cosas, será sancionado con 10 a 50 días-multa. \nSi el autor se vale de amenazas o violencia contra l as personas, la sanción será de prisión de 6 a 12 meses\nde prisión. (sic). \nSi la fuerza o violencia que cause daño a las person as o en las cosas tiene sanci ón especial señalada en la\nLey, se impondrá ésta, además de las previstas en este Artículo.\nCAPITULO VIII\nAPOLOGIA DEL DELITO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 371,
+    "texto": "Artículo 371. El que públicamente haga apología de  un hecho punible o incite a la desobediencia de\nlas leyes, será sancionado con prisión de 1 a 2 años.\nTITULO XII\nDELITOS CONTRA LA ECONOMIA NACIONAL\nCAPITULO I\nDELITOS CONTRA LA SEGURIDAD DE LA ECONOMIA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 372,
+    "texto": "Artículo 372. El que divulgue por la prensa u otro  medio de información, noticias falsas, exageradas\no tendenciosas, o propague rumores que pongan en pelig ro la economía nacional o el crédito público, será\nsancionado con prisión de 6 meses a 3 años. \nSi como consecuencia del hecho anterior se pr odujere una depreciación en la moneda nacional o\nalteración en los valores de los Títulos del Estado, la sanción se elevará hasta el doble."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 373,
+    "texto": "Artículo 373. El que difunda noticias falsas, exageradas o tendenciosas y como consecuencia\nproduzca en el comercio algún aumento o disminución en  el precio de las mercaderías, valores, títulos o\ninstrumentos negociables, será sancionado con prisión de 6 a 18 meses y de 25 a 50 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 374,
+    "texto": "Artículo 374. Las sanciones expresadas en los dos Artículos anteriores se elevarán al doble:\n50\n1. Cuando los hechos produzcan un aumento en el precio de las sustancias alimenticias u otros Artículos\nde primera necesidad; \n2. Cuando los hechos fueron perpetrados para favorecer intereses extranjeros, y \n3. Cuando los hechos sean cometidos por ser vidores públicos, agentes mediadores y corredores de\ncomercio, a quienes se le impondrá además, como pena accesoria, la inhabilitación para el ejercicio de sus\nactividades profesionales por tiempo igual al de la sanción, una vez cumplida ésta."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 375,
+    "texto": "Artículo 375. El que destruya materias primas, productos agrícolas, o industriales, o instrumentos de\nproducción y cause con ello un perjuicio a la produ cción del país, o escasez en los Artículos de primera\nnecesidad será sancionado con prisión de 6 meses a 2 años y de 50 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 376,
+    "texto": "Artículo 376. El que difunda una enfermedad en los animales o en las plantas, que perjudique la\nproducción pecuaria, agrícola o forestal del país, será sancionado con prisión de 6 meses a 2 años."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 377,
+    "texto": "Artículo 377. El extranjero que viole alguna front era de la República y ejecute dentro del territorio\nnacional actos no autorizados de explotación de recu rsos naturales que pongan en peligro la economía\nnacional, será sancionado con prisión de 6 meses a 2 años y de 50 a 100 días-multa. \nSi el hecho fuere ejecutado por más de 5 personas, la sanción será de 1 a 3 años de prisión y de 50 a 100\ndías-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 378,
+    "texto": "Artículo 378. El que realice en ríos navegables, en el  mar territorial o en la plataforma continental, la\nexplotación no autorizada de las riquezas ictiológicas del Estado, será sancionado con prisión de 6 meses\na 2 años.\nCAPITULO II\nMONOPOLIO"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 379,
+    "texto": "Artículo 379. El que restrinja o imposibilite el  libre comercio y competencia mediante el\nestablecimiento de monopolio, será sancionado con pris ión de 1 a 6 años y de 50 a 200 días-multa, sin\nperjuicio de las sanciones administrativas que se impongan.\nCAPITULO III\nCOMPETENCIA DESLEAL"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 380,
+    "texto": "Artículo 380. El que falsifique o divulgue, con afán  de lucro, información falsa sobre el competidor,\nsiempre que resulte perjuicio de ello, o el que utilice medios fraudulentos para desviar en provecho propio\no de un tercero la clientela de otro, será sanciona do con 6 meses a 1 año de prisión o de 20 a 200 días-\nmulta."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 381,
+    "texto": "Artículo 381. El que prometa o entregue dinero u otra recompensa al trabajador de un competidor\npara que falte a su deber de lea ltad con el empleador y le proporci one ventaja indebida, será sancionado\ncon 6 a 18 meses de prisión.\nCAPITULO IV\nDELITOS CONTRA LOS DERECHOS AJENOS\n51"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 382,
+    "texto": "Artículo 382. El que, sin la debida autorización de  quien tiene derecho, fa brique, importe o venda un\nproducto protegido por patente o use, sin la debi da autorización el procedimiento patentado, será\nsancionado con prisión de 6 meses a 1 año o de 20 a 150 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 383,
+    "texto": "Artículo 383. El servidor público que utilice en pr ovecho propio o ajeno, inventos o descubrimientos\ncientíficos o nuevas aplicaciones industriales que c onozca por razón de su cargo, que deban permanecer\nsecretos, será sancionado con prisión de 1 a 3 años y de 50 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 384,
+    "texto": "Artículo 384. El que ponga en venta o haga circ ular en los mercados nacionales o extranjeros,\nproductos agrícolas o industriales con nombres, marcas o signos distintivos falsif icados o alterados, será\nsancionado con prisión de 1 a 2 años y de 100 a 200 días-multa."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 385,
+    "texto": "Artículo 385. El que use marca legítima ajena en producto o Artículo que no sea de su propia\nfabricación, será sancionado con prisión de 6 meses a 1 año o de 20 a 100 días-multa.\nCAPITULO V\nQUIEBRA E INSOLVENCIA"
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 386,
+    "texto": "Artículo 386. El que fuere declarado en quiebra dolosa o fraudulenta según el Código de Comercio,\nincurrirá en prisión de 2 a 3 años e inhabilitación para  el ejercicio del comercio y la industria por tres a\ndiez días (sic)."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 387,
+    "texto": "Artículo 387. El que fuere declarado en quiebra cu lposa o culpable conforme al Código de Comercio,\nincurrirá en prisión por 1 a 3 años e inhabilitación para  el ejercicio del comercio y la industria por 1 a 3\naños."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 388,
+    "texto": "Artículo 388. El que, para sustraerse al pago de  sus obligaciones, oculte sus bienes, simule la\nenajenación de los mismos o declare créditos inexistentes, en perjuicio de acreedores, será sancionado con\n6 meses a 2 años de prisión."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 389,
+    "texto": "Artículo 389. Los plazos de días, meses y años a que este Código se refiere, se computarán con\narreglo a lo dispuesto en el Código Civil."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 390,
+    "texto": "Artículo 390. Este Código der oga el Código Penal aprobado por la Ley 6 a de 17 de noviembre de\n1922 y todas las disposiciones que lo hayan reformado, adicionado o complementado."
+  },
+  {
+    "codigo": "codigo_sanitario",
+    "rama": "sanitario",
+    "articulo": 391,
+    "texto": "Artículo 391. Este Código entrará en vigencia ci ento ochenta (180) días después de su sanción. El\nOrgano Ejecutivo efectuará sin demora una edición oficia l en forma de libro para distribuirlo en todas las\noficinas públicas y ponerla en venta en toda la República.\nCOMUNIQUESE Y PUBLIQUESE\nDada en la ciudad de Panamá, a los veintidós días del mes de septiembre de mil novecientos ochenta\ny dos."
+  }
+]
